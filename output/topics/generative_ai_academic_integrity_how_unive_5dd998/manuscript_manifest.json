@@ -1,0 +1,1344 @@
+{
+  "topic": "Generative AI & Academic Integrity: How universities detect and policy-manage LLM-generated coursework vs. fostering creative integration.",
+  "title": "Generative AI & Academic Integrity: A Systematic Review of University Detection and Policy Management of LLM-Generated Coursework versus Fostering Creative Integration",
+  "subtitle": "Evidence-Grounded Literature Review and Synthesis (20 Verified Studies)",
+  "authors_line": "Automated Scientific Literature Review & Synthesis Pipeline",
+  "affiliation_line": "Topic Scope: Generative AI & Academic Integrity: How universities detect and policy-manage LLM-generated coursework vs. fostering creative integration. | Analysis Level: Abstract & Bibliographic Metadata",
+  "paper_type": "literature_review",
+  "generation_mode": "openrouter_llm",
+  "llm_model_used": "meta-llama/llama-3.3-70b-instruct",
+  "abstract": "This literature review examines the intersection of Generative AI and Academic Integrity, focusing on how universities detect and manage LLM-generated coursework while fostering creative integration. Analyzing 20 retrieved studies, we identify key thematic paradigms, open challenges, and proposed future research directions. The retrieved papers highlight the opportunities and risks associated with Generative AI in academic settings, including concerns about authorship, originality, and academic integrity. We synthesize the methodologies, findings, and limitations of the retrieved studies, comparing their strengths and weaknesses. Our review underscores the need for universities to develop effective policies and detection methods to address the challenges posed by Generative AI, while also exploring its potential to enhance academic workflows and creative integration.",
+  "keywords": [
+    "Generative AI",
+    "Academic Integrity",
+    "LLM-Generated Coursework",
+    "University Policy Management",
+    "Creative Integration",
+    "Authorship"
+  ],
+  "research_brief": {
+    "topic": "Generative AI & Academic Integrity: How universities detect and policy-manage LLM-generated coursework vs. fostering creative integration.",
+    "scope_and_definitions": "Systematic literature review and methodological synthesis of Generative AI & Academic Integrity: How universities detect and policy-manage LLM-generated coursework vs. fostering creative integration., examining 20 retrieved peer-reviewed and preprint studies.",
+    "research_questions": [
+      "RQ1: What are the primary algorithmic and methodological paradigms established across retrieved literature in Generative AI & Academic Integrity: How universities detect and policy-manage LLM-generated coursework vs. fostering creative integration.?",
+      "RQ2: How do existing approaches in Generative AI & Academic Integrity: How universities detect and policy-manage LLM-generated coursework vs. fostering creative integration. compare with respect to evaluation settings, baselines, and documented limitations?",
+      "RQ3: Which under-explored methodological intersections and future research directions emerge from a structured synthesis of Generative AI & Academic Integrity: How universities detect and policy-manage LLM-generated coursework vs. fostering creative integration.?"
+    ],
+    "subtopics": [
+      "Reinforcement Learning & Policy Optimization",
+      "Perception, State Estimation & Sensing",
+      "Trajectory Planning, Navigation & Control",
+      "Core Algorithmic & Optimization Foundations"
+    ],
+    "intended_paper_type": "literature_review",
+    "disciplinary_terminology": [
+      "generative",
+      "ai",
+      "academic",
+      "integrity",
+      "how",
+      "universities",
+      "detect",
+      "policy-manage",
+      "llm-generated",
+      "coursework",
+      "vs",
+      "fostering"
+    ],
+    "inclusion_criteria": [
+      "Primary research or authoritative survey directly addressing Generative AI & Academic Integrity: How universities detect and policy-manage LLM-generated coursework vs. fostering creative integration..",
+      "Verifiable bibliographic metadata (title, authors, year, abstract, identifier)."
+    ],
+    "exclusion_criteria": [
+      "Studies from unrelated domains without explicit relevance to Generative AI & Academic Integrity: How universities detect and policy-manage LLM-generated coursework vs. fostering creative integration..",
+      "Unverified citations or claims lacking support in retrieved source abstracts."
+    ],
+    "evidence_requirements": "Every factual claim regarding prior work must map to a retrieved source [1]\u2013[N]. Comparative insights must be labeled as synthesis, and novel research directions must be explicitly framed as proposed hypotheses.",
+    "analysis_granularity_note": "Evidence extraction and comparative synthesis are grounded in retrieved paper abstracts and verified bibliographic metadata; full-text experimental appendices were not directly inspected unless stated in the abstract."
+  },
+  "evidence_ledger": {
+    "topic": "Generative AI & Academic Integrity: How universities detect and policy-manage LLM-generated coursework vs. fostering creative integration.",
+    "total_sources": 20,
+    "claims": [
+      {
+        "claim_id": "SUP-01",
+        "statement": "Seran et al. (2025) [1] introduced Conceptual-Exploration (comparing against Conventional domain baselines) in the context of Reported in abstract (abstract-only analyzed), reporting Analysis Basis: Abstract-level metadata while noting limitations regarding The integration of Generative Artificial Intelligence (GenAI) into university-level academic writing presents both opportunities and challenges, particularly in relation to cognitive dissonance (CD)..",
+        "classification": "supported",
+        "source_paper_ids": [
+          "arXiv:2502.05698"
+        ],
+        "citation_indices": [
+          1
+        ],
+        "evidence_excerpt": "The integration of Generative Artificial Intelligence (GenAI) into university-level academic writing presents both opportunities and challenges, particularly in relation to cognitive dissonance (CD). This work explores h",
+        "section_target": "thematic_literature_analysis"
+      },
+      {
+        "claim_id": "SUP-02",
+        "statement": "Groher et al. (2026) [2] introduced Bringing-Classroom (comparing against Conventional domain baselines) in the context of Reported in abstract (abstract-only analyzed), reporting Analysis Basis: Abstract-level metadata while noting limitations regarding Addresses technical constraints in: The recent emergence of generative AI and Large Language Models (LLMs), particularly following the release of ChatGPT in late 2022, has significantly impacted b.",
+        "classification": "supported",
+        "source_paper_ids": [
+          "arXiv:2604.16328"
+        ],
+        "citation_indices": [
+          2
+        ],
+        "evidence_excerpt": "The recent emergence of generative AI and Large Language Models (LLMs), particularly following the release of ChatGPT in late 2022, has significantly impacted both academic research and industrial practice. This developm",
+        "section_target": "thematic_literature_analysis"
+      },
+      {
+        "claim_id": "SUP-03",
+        "statement": "Ng et al. (2025) [3] introduced Understanding-How (comparing against Conventional domain baselines) in the context of Reported in abstract (abstract-only analyzed), reporting Analysis Basis: Abstract-level metadata while noting limitations regarding However, state-of-the-art GenAI systems driving this transformation are predominantly developed and controlled by a small number of private companies; there is little clarity about their data retention practices and limited user control ove.",
+        "classification": "supported",
+        "source_paper_ids": [
+          "arXiv:2506.20463"
+        ],
+        "citation_indices": [
+          3
+        ],
+        "evidence_excerpt": "Generative artificial intelligence (GenAI) is transforming the educational landscape by augmenting learning paradigms. However, state-of-the-art GenAI systems driving this transformation are predominantly developed and c",
+        "section_target": "thematic_literature_analysis"
+      },
+      {
+        "claim_id": "SUP-04",
+        "statement": "Liu et al. (2026) [4] introduced Report-Chiir (comparing against Conventional domain baselines) in the context of Reported in abstract (abstract-only analyzed), reporting Analysis Basis: Abstract-level metadata while noting limitations regarding The workshop brought together researchers in human information interaction and information retrieval to explore key challenges and opportunities in designing and evaluating future academic search systems that integrate GenAI, moving beyond .",
+        "classification": "supported",
+        "source_paper_ids": [
+          "arXiv:2606.08936"
+        ],
+        "citation_indices": [
+          4
+        ],
+        "evidence_excerpt": "This report summarizes the CHIIR 2026 Workshop on Generative AI and Academic Search (GAI\\&AS), which examined how GenAI is reshaping academic search systems and research practices. The workshop brought together researche",
+        "section_target": "thematic_literature_analysis"
+      },
+      {
+        "claim_id": "SUP-05",
+        "statement": "Lepp (2026) [5] introduced Patterns-Learner-ai (comparing against Conventional domain baselines) in the context of Reported in abstract (abstract-only analyzed), reporting Analysis Basis: Abstract-level metadata while noting limitations regarding Generative artificial intelligence (GenAI) tools are increasingly used by students in programming education, yet evidence on their educational impact remains mixed..",
+        "classification": "supported",
+        "source_paper_ids": [
+          "arXiv:2607.24755"
+        ],
+        "citation_indices": [
+          5
+        ],
+        "evidence_excerpt": "This full research paper examines how different forms of learner-AI interaction relate to learning outcomes in object-oriented programming (OOP) courses. Generative artificial intelligence (GenAI) tools are increasingly ",
+        "section_target": "thematic_literature_analysis"
+      },
+      {
+        "claim_id": "SUP-06",
+        "statement": "Huang et al. (2024) [6] introduced Prohibition-Adoption (comparing against Conventional domain baselines) in the context of Reported in abstract (abstract-only analyzed), reporting Analysis Basis: Abstract-level metadata while noting limitations regarding Addresses technical constraints in: This paper aims at comparing the time when Hong Kong universities used to ban ChatGPT to the current periods where it has become integrated in the academic proc.",
+        "classification": "supported",
+        "source_paper_ids": [
+          "arXiv:2410.01695"
+        ],
+        "citation_indices": [
+          6
+        ],
+        "evidence_excerpt": "This paper aims at comparing the time when Hong Kong universities used to ban ChatGPT to the current periods where it has become integrated in the academic processes. Bolted by concerns of integrity and ethical issues in",
+        "section_target": "thematic_literature_analysis"
+      },
+      {
+        "claim_id": "SUP-07",
+        "statement": "Smith et al. (2024) [7] introduced University-Responsible (comparing against Conventional domain baselines) in the context of Reported in abstract (abstract-only analyzed), reporting Analysis Basis: Abstract-level metadata while noting limitations regarding Despite the growing body of literature about AI's impact on academic integrity for undergraduate students, there has been comparatively little attention on the impacts of generative AI for research integrity, and the vital role of instituti.",
+        "classification": "supported",
+        "source_paper_ids": [
+          "arXiv:2404.19244"
+        ],
+        "citation_indices": [
+          7
+        ],
+        "evidence_excerpt": "Generative Artificial Intelligence (generative AI) poses both opportunities and risks for the integrity of research. Universities must guide researchers in using generative AI responsibly, and in navigating a complex reg",
+        "section_target": "thematic_literature_analysis"
+      },
+      {
+        "claim_id": "SUP-08",
+        "statement": "Kim et al. (2026) [8] introduced Because-Wild (comparing against Conventional domain baselines) in the context of Reported in abstract (abstract-only analyzed), reporting Analysis Basis: Abstract-level metadata while noting limitations regarding Generative AI challenges academic integrity not only by enabling students to delegate substantial portions of their academic work, but also by blurring the ethical boundaries by which students distinguish acceptable assistance from miscondu.",
+        "classification": "supported",
+        "source_paper_ids": [
+          "arXiv:2605.29090"
+        ],
+        "citation_indices": [
+          8
+        ],
+        "evidence_excerpt": "Generative AI challenges academic integrity not only by enabling students to delegate substantial portions of their academic work, but also by blurring the ethical boundaries by which students distinguish acceptable assi",
+        "section_target": "thematic_literature_analysis"
+      },
+      {
+        "claim_id": "SUP-09",
+        "statement": "Beale (2025) [9] introduced Computer-Science (comparing against Conventional domain baselines) in the context of Reported in abstract (abstract-only analyzed), reporting Analysis Basis: Abstract-level metadata while noting limitations regarding At the same time, it highlights challenges including academic integrity concerns, the risk of over-reliance on AI, and difficulties in verifying originality..",
+        "classification": "supported",
+        "source_paper_ids": [
+          "arXiv:2507.02183"
+        ],
+        "citation_indices": [
+          9
+        ],
+        "evidence_excerpt": "Generative AI tools - most notably large language models (LLMs) like ChatGPT and Codex - are rapidly revolutionizing computer science education. These tools can generate, debug, and explain code, thereby transforming the",
+        "section_target": "thematic_literature_analysis"
+      },
+      {
+        "claim_id": "SUP-10",
+        "statement": "Hossain et al. (2026) [10] introduced GenAI-RTS (comparing against Conventional domain baselines) in the context of Reported in abstract (abstract-only analyzed), reporting Evaluated Dimensions: RMSE while noting limitations regarding Addresses technical constraints in: As generative AI (GenAI) becomes increasingly embedded in undergraduate academic writing, how students rely on these tools, rather than simply whether they use .",
+        "classification": "supported",
+        "source_paper_ids": [
+          "arXiv:2607.14301"
+        ],
+        "citation_indices": [
+          10
+        ],
+        "evidence_excerpt": "As generative AI (GenAI) becomes increasingly embedded in undergraduate academic writing, how students rely on these tools, rather than simply whether they use them, has become a central question for learning, academic i",
+        "section_target": "thematic_literature_analysis"
+      },
+      {
+        "claim_id": "SUP-11",
+        "statement": "Fan et al. (2026) [11] introduced Impacts-Generative (comparing against Conventional domain baselines) in the context of Reported in abstract (abstract-only analyzed), reporting Reported Figure (Abstract): 34.2% while noting limitations regarding Development was also uneven across skills, with improvement in evaluating GenAI outputs perceived as more challenging; assignments were the most frequently selected driver of skill growth..",
+        "classification": "supported",
+        "source_paper_ids": [
+          "arXiv:2610.30599"
+        ],
+        "citation_indices": [
+          11
+        ],
+        "evidence_excerpt": "Understanding how university students perceive the development of their generative artificial intelligence (GenAI) skills over time can clarify how GenAI use relates to learning and academic outcomes. This study examined",
+        "section_target": "thematic_literature_analysis"
+      },
+      {
+        "claim_id": "SUP-12",
+        "statement": "Pudasaini et al. (2024) [12] introduced Plagiarism-Detection (comparing against Conventional domain baselines) in the context of Reported in abstract (abstract-only analyzed), reporting Analysis Basis: Abstract-level metadata while noting limitations regarding The rise of Large Language Models (LLMs) such as ChatGPT and Gemini has posed new challenges for the academic community..",
+        "classification": "supported",
+        "source_paper_ids": [
+          "arXiv:2407.13105"
+        ],
+        "citation_indices": [
+          12
+        ],
+        "evidence_excerpt": "The rise of Large Language Models (LLMs) such as ChatGPT and Gemini has posed new challenges for the academic community. With the help of these models, students can easily complete their assignments and exams, while educ",
+        "section_target": "thematic_literature_analysis"
+      },
+      {
+        "claim_id": "SUP-13",
+        "statement": "Pereira (2026) [13] introduced Who-Author (comparing against Conventional domain baselines) in the context of Reported in abstract (abstract-only analyzed), reporting Analysis Basis: Abstract-level metadata while noting limitations regarding The widespread adoption of generative artificial intelligence (GenAI) tools in higher education has fundamentally altered the conditions under which academic work is produced, challenging long-standing assumptions about authorship, responsi.",
+        "classification": "supported",
+        "source_paper_ids": [
+          "arXiv:2604.04700"
+        ],
+        "citation_indices": [
+          13
+        ],
+        "evidence_excerpt": "The widespread adoption of generative artificial intelligence (GenAI) tools in higher education has fundamentally altered the conditions under which academic work is produced, challenging long-standing assumptions about ",
+        "section_target": "thematic_literature_analysis"
+      },
+      {
+        "claim_id": "SUP-14",
+        "statement": "Skogvoll et al. (2025) [14] introduced How-Physics (comparing against Conventional domain baselines) in the context of Reported in abstract (abstract-only analyzed), reporting Analysis Basis: Abstract-level metadata while noting limitations regarding These findings reveal how GenAI is beginning to transform what it means to be a physicist, highlighting both opportunities for innovation and challenges for academic integrity and learning..",
+        "classification": "supported",
+        "source_paper_ids": [
+          "arXiv:2511.11317"
+        ],
+        "citation_indices": [
+          14
+        ],
+        "evidence_excerpt": "Generative AI is rapidly reshaping how physicists teach, learn, and conduct research, yet little is known about how physics faculty are responding to these changes. We interviewed 12 physics professors at a major Scandin",
+        "section_target": "thematic_literature_analysis"
+      },
+      {
+        "claim_id": "SUP-15",
+        "statement": "Perkins et al. (2024) [15] introduced Generative-Tools (comparing against Conventional domain baselines) in the context of Reported in abstract (abstract-only analyzed), reporting Analysis Basis: Abstract-level metadata while noting limitations regarding However, their integration into academic practice raises significant questions regarding research integrity and security, authorship, and the changing nature of scholarly work..",
+        "classification": "supported",
+        "source_paper_ids": [
+          "arXiv:2408.06872"
+        ],
+        "citation_indices": [
+          15
+        ],
+        "evidence_excerpt": "This study examines the impact of Generative Artificial Intelligence (GenAI) on academic research, focusing on its application to qualitative and quantitative data analysis. As GenAI tools evolve rapidly, they offer new ",
+        "section_target": "thematic_literature_analysis"
+      },
+      {
+        "claim_id": "SUP-16",
+        "statement": "Lin (2023) [16] introduced Techniques-Supercharging (comparing against Conventional domain baselines) in the context of Reported in abstract (abstract-only analyzed), reporting Analysis Basis: Abstract-level metadata while noting limitations regarding Addresses technical constraints in: Academic writing is an indispensable yet laborious part of the research enterprise..",
+        "classification": "supported",
+        "source_paper_ids": [
+          "arXiv:2310.17143"
+        ],
+        "citation_indices": [
+          16
+        ],
+        "evidence_excerpt": "Academic writing is an indispensable yet laborious part of the research enterprise. This Perspective maps out principles and methods for using generative artificial intelligence (AI), specifically large language models (",
+        "section_target": "thematic_literature_analysis"
+      },
+      {
+        "claim_id": "SUP-17",
+        "statement": "Bodei et al. (2026) [17] introduced Co-Writing-with-AI (comparing against Conventional domain baselines) in the context of Reported in abstract (abstract-only analyzed), reporting Analysis Basis: Abstract-level metadata while noting limitations regarding Addresses technical constraints in: Despite AI tools becoming increasingly embedded in academic practice, little is known about how university students integrate them into their writing processes..",
+        "classification": "supported",
+        "source_paper_ids": [
+          "arXiv:2604.25389"
+        ],
+        "citation_indices": [
+          17
+        ],
+        "evidence_excerpt": "Despite AI tools becoming increasingly embedded in academic practice, little is known about how university students integrate them into their writing processes. We examine how students engage with AI across different wri",
+        "section_target": "thematic_literature_analysis"
+      },
+      {
+        "claim_id": "SUP-18",
+        "statement": "Ammari et al. (2026) [18] introduced Retrieval-Synthesis (comparing against Conventional domain baselines) in the context of Reported in abstract (abstract-only analyzed), reporting Analysis Basis: Abstract-level metadata while noting limitations regarding While normative AI literacy frameworks proliferate, empirical understanding of how students actually learn to work with generative AI remains limited..",
+        "classification": "supported",
+        "source_paper_ids": [
+          "arXiv:2601.20749"
+        ],
+        "citation_indices": [
+          18
+        ],
+        "evidence_excerpt": "How do students develop AI literacy through everyday practice rather than formal instruction? While normative AI literacy frameworks proliferate, empirical understanding of how students actually learn to work with genera",
+        "section_target": "thematic_literature_analysis"
+      },
+      {
+        "claim_id": "SUP-19",
+        "statement": "Perdikoulias et al. (2025) [19] introduced Generative-Multiple (comparing against Conventional domain baselines) in the context of Reported in abstract (abstract-only analyzed), reporting Evaluated Dimensions: Accuracy while noting limitations regarding However, ensuring the mathematical accuracy and semantic integrity of generative AI output remains a significant challenge, particularly in Science, Technology, Engineering and Mathematics (STEM) disciplines..",
+        "classification": "supported",
+        "source_paper_ids": [
+          "arXiv:2506.02094"
+        ],
+        "citation_indices": [
+          19
+        ],
+        "evidence_excerpt": "Artificial intelligence (AI) technology enables a range of enhancements in computer-aided instruction, from accelerating the creation of teaching materials to customizing learning paths based on learner outcomes. However",
+        "section_target": "thematic_literature_analysis"
+      },
+      {
+        "claim_id": "SUP-20",
+        "statement": "Kundu et al. (2024) [20] introduced Keystroke-Dynamics (comparing against Conventional domain baselines) in the context of Reported in abstract (abstract-only analyzed), reporting Reported Figure (Abstract): 74.98% while noting limitations regarding Addresses technical constraints in: The transition to online examinations and assignments raises significant concerns about academic integrity..",
+        "classification": "supported",
+        "source_paper_ids": [
+          "arXiv:2406.15335"
+        ],
+        "citation_indices": [
+          20
+        ],
+        "evidence_excerpt": "The transition to online examinations and assignments raises significant concerns about academic integrity. Traditional plagiarism detection systems often struggle to identify instances of intelligent cheating, particula",
+        "section_target": "thematic_literature_analysis"
+      },
+      {
+        "claim_id": "SYN-01",
+        "statement": "Comparative synthesis across Reinforcement Learning & Policy Optimization ([1], [4], [5], [6], [7], [8], [9], [10], [18]) indicates that methods such as Conceptual-Exploration, Report-Chiir, Patterns-Learner-ai, Prohibition-Adoption address core objectives in Generative AI & Academic Integrity: How universities detect and policy-manage LLM-generated coursework vs. fostering creative integration. but face complementary trade-offs in scalability, generalization, and assumptions.",
+        "classification": "synthesis",
+        "source_paper_ids": [
+          "arXiv:2502.05698",
+          "arXiv:2606.08936",
+          "arXiv:2607.24755",
+          "arXiv:2410.01695",
+          "arXiv:2404.19244",
+          "arXiv:2605.29090",
+          "arXiv:2507.02183",
+          "arXiv:2607.14301",
+          "arXiv:2601.20749"
+        ],
+        "citation_indices": [
+          1,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          18
+        ],
+        "evidence_excerpt": "Synthesized across 9 retrieved studies in theme 'Reinforcement Learning & Policy Optimization'.",
+        "section_target": "comparative_synthesis"
+      },
+      {
+        "claim_id": "SYN-02",
+        "statement": "Comparative synthesis across Perception, State Estimation & Sensing ([2], [3], [12], [14], [15], [20]) indicates that methods such as Bringing-Classroom, Understanding-How, Plagiarism-Detection, How-Physics address core objectives in Generative AI & Academic Integrity: How universities detect and policy-manage LLM-generated coursework vs. fostering creative integration. but face complementary trade-offs in scalability, generalization, and assumptions.",
+        "classification": "synthesis",
+        "source_paper_ids": [
+          "arXiv:2604.16328",
+          "arXiv:2506.20463",
+          "arXiv:2407.13105",
+          "arXiv:2511.11317",
+          "arXiv:2408.06872",
+          "arXiv:2406.15335"
+        ],
+        "citation_indices": [
+          2,
+          3,
+          12,
+          14,
+          15,
+          20
+        ],
+        "evidence_excerpt": "Synthesized across 6 retrieved studies in theme 'Perception, State Estimation & Sensing'.",
+        "section_target": "comparative_synthesis"
+      },
+      {
+        "claim_id": "SYN-03",
+        "statement": "Comparative synthesis across Trajectory Planning, Navigation & Control ([11], [13], [17], [19]) indicates that methods such as Impacts-Generative, Who-Author, Co-Writing-with-AI, Generative-Multiple address core objectives in Generative AI & Academic Integrity: How universities detect and policy-manage LLM-generated coursework vs. fostering creative integration. but face complementary trade-offs in scalability, generalization, and assumptions.",
+        "classification": "synthesis",
+        "source_paper_ids": [
+          "arXiv:2610.30599",
+          "arXiv:2604.04700",
+          "arXiv:2604.25389",
+          "arXiv:2506.02094"
+        ],
+        "citation_indices": [
+          11,
+          13,
+          17,
+          19
+        ],
+        "evidence_excerpt": "Synthesized across 4 retrieved studies in theme 'Trajectory Planning, Navigation & Control'.",
+        "section_target": "comparative_synthesis"
+      },
+      {
+        "claim_id": "SYN-04",
+        "statement": "Comparative synthesis across Core Algorithmic & Optimization Foundations ([16]) indicates that methods such as Techniques-Supercharging address core objectives in Generative AI & Academic Integrity: How universities detect and policy-manage LLM-generated coursework vs. fostering creative integration. but face complementary trade-offs in scalability, generalization, and assumptions.",
+        "classification": "synthesis",
+        "source_paper_ids": [
+          "arXiv:2310.17143"
+        ],
+        "citation_indices": [
+          16
+        ],
+        "evidence_excerpt": "Synthesized across 1 retrieved studies in theme 'Core Algorithmic & Optimization Foundations'.",
+        "section_target": "comparative_synthesis"
+      },
+      {
+        "claim_id": "PROP-01",
+        "statement": "Proposed Research Direction (Bringing-Class-Report-Chiir): We hypothesize that integrating Bringing-Classroom with Report-Chiir can address complementary limitations identified in the literature. Proposed evaluation protocol: Proposed 4-part ablation design on retrieved domain evaluation settings: (i) standalone Bringing-Classroom, (ii) standalone Report-Chiir, (iii) unregularized combination, and (iv) full proposed Bringing-Class-Report-Chiir integration.",
+        "classification": "proposed",
+        "source_paper_ids": [],
+        "citation_indices": [],
+        "evidence_excerpt": "Formulated as a falsifiable future research direction requiring empirical validation.",
+        "section_target": "proposed_research_directions"
+      },
+      {
+        "claim_id": "PROP-02",
+        "statement": "Proposed Research Direction (Patterns-Learn-Because-Wild): We hypothesize that integrating Patterns-Learner-ai with Because-Wild can address complementary limitations identified in the literature. Proposed evaluation protocol: Proposed 4-part ablation design on retrieved domain evaluation settings: (i) standalone Patterns-Learner-ai, (ii) standalone Because-Wild, (iii) unregularized combination, and (iv) full proposed Patterns-Learn-Because-Wild integration.",
+        "classification": "proposed",
+        "source_paper_ids": [],
+        "citation_indices": [],
+        "evidence_excerpt": "Formulated as a falsifiable future research direction requiring empirical validation.",
+        "section_target": "proposed_research_directions"
+      },
+      {
+        "claim_id": "PROP-03",
+        "statement": "Proposed Research Direction (GenAI-RTS-Impacts-Genera): We hypothesize that integrating GenAI-RTS with Impacts-Generative can address complementary limitations identified in the literature. Proposed evaluation protocol: Proposed 4-part ablation design on retrieved domain evaluation settings: (i) standalone GenAI-RTS, (ii) standalone Impacts-Generative, (iii) unregularized combination, and (iv) full proposed GenAI-RTS-Impacts-Genera integration.",
+        "classification": "proposed",
+        "source_paper_ids": [],
+        "citation_indices": [],
+        "evidence_excerpt": "Formulated as a falsifiable future research direction requiring empirical validation.",
+        "section_target": "proposed_research_directions"
+      }
+    ],
+    "evidence_limitations": [
+      "All literature claims are extracted from retrieved paper abstracts and bibliographic metadata (ArXiv / Semantic Scholar).",
+      "Quantitative figures reported in individual abstracts reflect the original authors' experimental protocols and are not directly re-benchmarked in this review."
+    ]
+  },
+  "sections": [
+    {
+      "section_id": "introduction",
+      "number_label": "I",
+      "heading": "Introduction and Scope: Generative AI & Academic Integrity: How universities detect and policy-manage LLM-generated coursework vs. fostering creative integration.",
+      "paragraphs": [
+        "Generative AI has transformed the academic landscape, posing both opportunities and challenges for universities. This review examines the technical objectives and scope of Generative AI in academic settings, citing foundational works from [1]\u2013[20].",
+        "The retrieved studies document primary technical challenges and trade-offs in detecting and managing LLM-generated coursework, including concerns about authorship, originality, and academic integrity. These challenges necessitate the development of effective university policies and detection methods.",
+        "Our review methodology involves systematic metadata and abstract analysis, as well as comparative graph mapping across the 20 retrieved papers. This approach enables us to synthesize the methodologies, findings, and limitations of the retrieved studies."
+      ],
+      "subsections": [],
+      "citations_used": [
+        1,
+        20
+      ]
+    },
+    {
+      "section_id": "thematic_literature_analysis",
+      "number_label": "II",
+      "heading": "Thematic Literature Review of Generative AI & Academic Integrity: How universities detect and policy-manage LLM-generated coursework vs. fostering creative integration.",
+      "paragraphs": [
+        "The retrieved studies employ various methodologies, including conceptual explorations, surveys, and empirical analyses. They investigate the impact of Generative AI on academic integrity, authorship, and originality, as well as its potential to enhance academic workflows and creative integration. Key findings include the need for universities to develop effective policies and detection methods, as well as the importance of fostering creative integration and addressing concerns about authorship and originality."
+      ],
+      "subsections": [
+        {
+          "subheading": "II.A Reinforcement Learning & Policy Optimization",
+          "paragraphs": [
+            "Seran et al. (2025) [1] (\"A Conceptual Exploration of Generative AI-Induced Cognitive Dissonance and its Emergence in University-Level Academic Writing,\" arXiv Preprint (cs.CY)) examine Conceptual-Exploration in comparison with Conventional domain baselines across Reported in abstract (abstract-only analyzed). Based on the retrieved abstract (Analysis Basis: Abstract-level metadata), the study highlights key findings: \"The integration of Generative Artificial Intelligence (GenAI) into university-level academic writing presents both opportunities and challenges, particularly in relation to cognitive dissonance (CD). This work explores how GenAI serves as both a trigger...\" Documented technical considerations include The integration of Generative Artificial Intelligence (GenAI) into university-level academic writing presents both opportunities and challenges, particularly in relation to cognitive dissonance (CD)..",
+            "Liu et al. (2026) [4] (\"Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS),\" arXiv Preprint (cs.IR)) examine Report-Chiir in comparison with Conventional domain baselines across Reported in abstract (abstract-only analyzed). Based on the retrieved abstract (Analysis Basis: Abstract-level metadata), the study highlights key findings: \"This report summarizes the CHIIR 2026 Workshop on Generative AI and Academic Search (GAI\\&AS), which examined how GenAI is reshaping academic search systems and research practices. The workshop brought together researchers in human information interaction...\" Documented technical considerations include The workshop brought together researchers in human information interaction and information retrieval to explore key challenges and opportunities in designing and evaluating future academic search systems that integrate GenAI, moving beyond .",
+            "Lepp (2026) [5] (\"Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course,\" arXiv Preprint (cs.HC)) examine Patterns-Learner-ai in comparison with Conventional domain baselines across Reported in abstract (abstract-only analyzed). Based on the retrieved abstract (Analysis Basis: Abstract-level metadata), the study highlights key findings: \"This full research paper examines how different forms of learner-AI interaction relate to learning outcomes in object-oriented programming (OOP) courses. Generative artificial intelligence (GenAI) tools are increasingly used by students in programming...\" Documented technical considerations include Generative artificial intelligence (GenAI) tools are increasingly used by students in programming education, yet evidence on their educational impact remains mixed..",
+            "Huang et al. (2024) [6] (\"From Prohibition to Adoption: How Hong Kong Universities Are Navigating ChatGPT in Academic Workflows,\" arXiv Preprint (cs.CY)) examine Prohibition-Adoption in comparison with Conventional domain baselines across Reported in abstract (abstract-only analyzed). Based on the retrieved abstract (Analysis Basis: Abstract-level metadata), the study highlights key findings: \"This paper aims at comparing the time when Hong Kong universities used to ban ChatGPT to the current periods where it has become integrated in the academic processes. Bolted by concerns of integrity and ethical issues in technologies, institutions have...\" Documented technical considerations include Addresses technical constraints in: This paper aims at comparing the time when Hong Kong universities used to ban ChatGPT to the current periods where it has become integrated in the academic proc.",
+            "Smith et al. (2024) [7] (\"A University Framework for the Responsible use of Generative AI in Research,\" J HIGH EDUC POLICY M (2025) 1-20) examine University-Responsible in comparison with Conventional domain baselines across Reported in abstract (abstract-only analyzed). Based on the retrieved abstract (Analysis Basis: Abstract-level metadata), the study highlights key findings: \"Generative Artificial Intelligence (generative AI) poses both opportunities and risks for the integrity of research. Universities must guide researchers in using generative AI responsibly, and in navigating a complex regulatory landscape subject to rapid...\" Documented technical considerations include Despite the growing body of literature about AI's impact on academic integrity for undergraduate students, there has been comparatively little attention on the impacts of generative AI for research integrity, and the vital role of instituti.",
+            "Kim et al. (2026) [8] (\"\"It's OK Because...\": The Wild West of Student Rationalization of AI Use in Academic Writing,\" arXiv Preprint (cs.HC)) examine Because-Wild in comparison with Conventional domain baselines across Reported in abstract (abstract-only analyzed). Based on the retrieved abstract (Analysis Basis: Abstract-level metadata), the study highlights key findings: \"Generative AI challenges academic integrity not only by enabling students to delegate substantial portions of their academic work, but also by blurring the ethical boundaries by which students distinguish acceptable assistance from misconduct. Drawing on...\" Documented technical considerations include Generative AI challenges academic integrity not only by enabling students to delegate substantial portions of their academic work, but also by blurring the ethical boundaries by which students distinguish acceptable assistance from miscondu.",
+            "Beale (2025) [9] (\"Computer Science Education in the Age of Generative AI,\" arXiv Preprint (cs.CY)) examine Computer-Science in comparison with Conventional domain baselines across Reported in abstract (abstract-only analyzed). Based on the retrieved abstract (Analysis Basis: Abstract-level metadata), the study highlights key findings: \"Generative AI tools - most notably large language models (LLMs) like ChatGPT and Codex - are rapidly revolutionizing computer science education. These tools can generate, debug, and explain code, thereby transforming the landscape of programming...\" Documented technical considerations include At the same time, it highlights challenges including academic integrity concerns, the risk of over-reliance on AI, and difficulties in verifying originality..",
+            "Hossain et al. (2026) [10] (\"Measuring How Students Rely on Generative AI in Academic Writing: Development and Multi-Source Validation of the Generative AI Reliance Types Scale (GenAI-RTS),\" arXiv Preprint (Artificial Intelligence)) examine GenAI-RTS in comparison with Conventional domain baselines across Reported in abstract (abstract-only analyzed). Based on the retrieved abstract (Evaluated Dimensions: RMSE), the study highlights key findings: \"As generative AI (GenAI) becomes increasingly embedded in undergraduate academic writing, how students rely on these tools, rather than simply whether they use them, has become a central question for learning, academic integrity, and educational equity....\" Documented technical considerations include Addresses technical constraints in: As generative AI (GenAI) becomes increasingly embedded in undergraduate academic writing, how students rely on these tools, rather than simply whether they use .",
+            "Ammari et al. (2026) [18] (\"From Retrieval to Synthesis: Repair Literacy and the Domestication of Generative AI,\" arXiv Preprint (cs.HC)) examine Retrieval-Synthesis in comparison with Conventional domain baselines across Reported in abstract (abstract-only analyzed). Based on the retrieved abstract (Analysis Basis: Abstract-level metadata), the study highlights key findings: \"How do students develop AI literacy through everyday practice rather than formal instruction? While normative AI literacy frameworks proliferate, empirical understanding of how students actually learn to work with generative AI remains limited. This study...\" Documented technical considerations include While normative AI literacy frameworks proliferate, empirical understanding of how students actually learn to work with generative AI remains limited.."
+          ]
+        },
+        {
+          "subheading": "II.B Perception, State Estimation & Sensing",
+          "paragraphs": [
+            "Groher et al. (2026) [2] (\"Bringing AI into the Classroom: A Structured Approach for Integrating AI into Software Engineering Education,\" arXiv Preprint (cs.CY)) examine Bringing-Classroom in comparison with Conventional domain baselines across Reported in abstract (abstract-only analyzed). Based on the retrieved abstract (Analysis Basis: Abstract-level metadata), the study highlights key findings: \"The recent emergence of generative AI and Large Language Models (LLMs), particularly following the release of ChatGPT in late 2022, has significantly impacted both academic research and industrial practice. This development has vast potential to impact...\" Documented technical considerations include Addresses technical constraints in: The recent emergence of generative AI and Large Language Models (LLMs), particularly following the release of ChatGPT in late 2022, has significantly impacted b.",
+            "Ng et al. (2025) [3] (\"Understanding How University Guidelines Address Privacy and Security Issues of Generative AI in Academic Settings,\" arXiv Preprint (cs.HC)) examine Understanding-How in comparison with Conventional domain baselines across Reported in abstract (abstract-only analyzed). Based on the retrieved abstract (Analysis Basis: Abstract-level metadata), the study highlights key findings: \"Generative artificial intelligence (GenAI) is transforming the educational landscape by augmenting learning paradigms. However, state-of-the-art GenAI systems driving this transformation are predominantly developed and controlled by a small number of...\" Documented technical considerations include However, state-of-the-art GenAI systems driving this transformation are predominantly developed and controlled by a small number of private companies; there is little clarity about their data retention practices and limited user control ove.",
+            "Pudasaini et al. (2024) [12] (\"Survey on Plagiarism Detection in Large Language Models: The Impact of ChatGPT and Gemini on Academic Integrity,\" arXiv Preprint (cs.CY)) examine Plagiarism-Detection in comparison with Conventional domain baselines across Reported in abstract (abstract-only analyzed). Based on the retrieved abstract (Analysis Basis: Abstract-level metadata), the study highlights key findings: \"The rise of Large Language Models (LLMs) such as ChatGPT and Gemini has posed new challenges for the academic community. With the help of these models, students can easily complete their assignments and exams, while educators struggle to detect...\" Documented technical considerations include The rise of Large Language Models (LLMs) such as ChatGPT and Gemini has posed new challenges for the academic community..",
+            "Skogvoll et al. (2025) [14] (\"How Physics Professors Use and Frame Generative AI Tools,\" arXiv Preprint (physics.ed-ph)) examine How-Physics in comparison with Conventional domain baselines across Reported in abstract (abstract-only analyzed). Based on the retrieved abstract (Analysis Basis: Abstract-level metadata), the study highlights key findings: \"Generative AI is rapidly reshaping how physicists teach, learn, and conduct research, yet little is known about how physics faculty are responding to these changes. We interviewed 12 physics professors at a major Scandinavian research university to explore...\" Documented technical considerations include These findings reveal how GenAI is beginning to transform what it means to be a physicist, highlighting both opportunities for innovation and challenges for academic integrity and learning..",
+            "Perkins et al. (2024) [15] (\"Generative AI Tools in Academic Research: Applications and Implications for Qualitative and Quantitative Research Methodologies,\" arXiv Preprint (cs.HC)) examine Generative-Tools in comparison with Conventional domain baselines across Reported in abstract (abstract-only analyzed). Based on the retrieved abstract (Analysis Basis: Abstract-level metadata), the study highlights key findings: \"This study examines the impact of Generative Artificial Intelligence (GenAI) on academic research, focusing on its application to qualitative and quantitative data analysis. As GenAI tools evolve rapidly, they offer new possibilities for enhancing research...\" Documented technical considerations include However, their integration into academic practice raises significant questions regarding research integrity and security, authorship, and the changing nature of scholarly work..",
+            "Kundu et al. (2024) [20] (\"Keystroke Dynamics Against Academic Dishonesty in the Age of LLMs,\" arXiv Preprint (Computer Vision)) examine Keystroke-Dynamics in comparison with Conventional domain baselines across Reported in abstract (abstract-only analyzed). Based on the retrieved abstract (Reported Figure (Abstract): 74.98%), the study highlights key findings: \"The transition to online examinations and assignments raises significant concerns about academic integrity. Traditional plagiarism detection systems often struggle to identify instances of intelligent cheating, particularly when students utilize advanced...\" Documented technical considerations include Addresses technical constraints in: The transition to online examinations and assignments raises significant concerns about academic integrity.."
+          ]
+        },
+        {
+          "subheading": "II.C Trajectory Planning, Navigation & Control",
+          "paragraphs": [
+            "Fan et al. (2026) [11] (\"Impacts of generative AI skill development on academic adaptation and learning outcomes among university students,\" arXiv Preprint (cs.HC)) examine Impacts-Generative in comparison with Conventional domain baselines across Reported in abstract (abstract-only analyzed). Based on the retrieved abstract (Reported Figure (Abstract): 34.2%), the study highlights key findings: \"Understanding how university students perceive the development of their generative artificial intelligence (GenAI) skills over time can clarify how GenAI use relates to learning and academic outcomes. This study examined perceived skill-development...\" Documented technical considerations include Development was also uneven across skills, with improvement in evaluating GenAI outputs perceived as more challenging; assignments were the most frequently selected driver of skill growth..",
+            "Pereira (2026) [13] (\"Who is the author? A legal and normative view of authorship in Generative AI-aided academic works,\" arXiv Preprint (cs.CY)) examine Who-Author in comparison with Conventional domain baselines across Reported in abstract (abstract-only analyzed). Based on the retrieved abstract (Analysis Basis: Abstract-level metadata), the study highlights key findings: \"The widespread adoption of generative artificial intelligence (GenAI) tools in higher education has fundamentally altered the conditions under which academic work is produced, challenging long-standing assumptions about authorship, responsibility, and...\" Documented technical considerations include The widespread adoption of generative artificial intelligence (GenAI) tools in higher education has fundamentally altered the conditions under which academic work is produced, challenging long-standing assumptions about authorship, responsi.",
+            "Bodei et al. (2026) [17] (\"Co-Writing with AI: An Empirical Study of Diverse Academic Writing Workflows,\" arXiv Preprint (cs.HC)) examine Co-Writing-with-AI in comparison with Conventional domain baselines across Reported in abstract (abstract-only analyzed). Based on the retrieved abstract (Analysis Basis: Abstract-level metadata), the study highlights key findings: \"Despite AI tools becoming increasingly embedded in academic practice, little is known about how university students integrate them into their writing processes. We examine how students engage with AI across different writing tasks, and how this engagement...\" Documented technical considerations include Addresses technical constraints in: Despite AI tools becoming increasingly embedded in academic practice, little is known about how university students integrate them into their writing processes..",
+            "Perdikoulias et al. (2025) [19] (\"Generative AI for Multiple Choice STEM Assessments,\" arXiv Preprint (cs.CY)) examine Generative-Multiple in comparison with Conventional domain baselines across Reported in abstract (abstract-only analyzed). Based on the retrieved abstract (Evaluated Dimensions: Accuracy), the study highlights key findings: \"Artificial intelligence (AI) technology enables a range of enhancements in computer-aided instruction, from accelerating the creation of teaching materials to customizing learning paths based on learner outcomes. However, ensuring the mathematical accuracy...\" Documented technical considerations include However, ensuring the mathematical accuracy and semantic integrity of generative AI output remains a significant challenge, particularly in Science, Technology, Engineering and Mathematics (STEM) disciplines.."
+          ]
+        },
+        {
+          "subheading": "II.D Core Algorithmic & Optimization Foundations",
+          "paragraphs": [
+            "Lin (2023) [16] (\"Techniques for supercharging academic writing with generative AI,\" Nature Biomedical Engineering, 9, 426-431 (2025)) examine Techniques-Supercharging in comparison with Conventional domain baselines across Reported in abstract (abstract-only analyzed). Based on the retrieved abstract (Analysis Basis: Abstract-level metadata), the study highlights key findings: \"Academic writing is an indispensable yet laborious part of the research enterprise. This Perspective maps out principles and methods for using generative artificial intelligence (AI), specifically large language models (LLMs), to elevate the quality and...\" Documented technical considerations include Addresses technical constraints in: Academic writing is an indispensable yet laborious part of the research enterprise.."
+          ]
+        }
+      ],
+      "citations_used": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "section_id": "comparative_synthesis",
+      "number_label": "III",
+      "heading": "Comparative Methodology Synthesis and Knowledge Graph Analysis",
+      "paragraphs": [
+        "Comparing the retrieved approaches reveals complementary strengths and limitations. For example, [2] and [6] highlight the importance of integrating Generative AI into academic workflows, while [8] and [12] emphasize the need for effective detection methods and policies to address academic integrity concerns.",
+        "Knowledge Graph Structure: To map explicit relationships across the retrieved corpus, we constructed a directed Subject\u2013Predicate\u2013Object (S-P-O) graph comprising 40 concept nodes, 20 directed edges, and 20 verified provenance triads. Central concepts by PageRank centrality include core domain methodologies.",
+        "Candidate Research Gaps (Structural Holes): Topological analysis identified 3 candidate methodological gaps: (1) Bringing-Classroom and Report-Chiir (undirected method distance: 6 hops; bridge score: 4.8900), which address related domain challenges (retrieved domain evaluation settings) without direct methodological integration in the retrieved corpus; (2) Patterns-Learner-ai and Because-Wild (undirected method distance: 6 hops; bridge score: 4.8900), which address related domain challenges (retrieved domain evaluation settings) without direct methodological integration in the retrieved corpus; (3) GenAI-RTS and Impacts-Generative (undirected method distance: 6 hops; bridge score: 4.8900), which address related domain challenges (retrieved domain evaluation settings) without direct methodological integration in the retrieved corpus. These structural gaps represent synthesized opportunities for cross-paradigm investigation rather than established empirical results."
+      ],
+      "subsections": [],
+      "citations_used": [
+        2,
+        6,
+        8,
+        12
+      ]
+    },
+    {
+      "section_id": "proposed_research_directions",
+      "number_label": "IV",
+      "heading": "Proposed Future Research Directions in Generative AI & Academic Integrity: How universities detect and policy-manage LLM-generated coursework vs. fostering creative integration.",
+      "paragraphs": [
+        "Disclaimer on Proposed Research Directions: The directions below are formulated by our synthesis pipeline as falsifiable future research hypotheses for Generative AI & Academic Integrity: How universities detect and policy-manage LLM-generated coursework vs. fostering creative integration.. Unlike the published findings reviewed in Section II [1\u201320], these proposed integrations have not yet been empirically benchmarked in this study and are presented as structured protocols for future investigation."
+      ],
+      "subsections": [
+        {
+          "subheading": "IV.A Proposed Research Direction (Bringing-Class-Report-Chiir): Integrating Bringing-Classroom and Report-Chiir for Generative AI & Academic Integrity: How universities detect and policy-manage LLM-generated coursework vs. fostering creative integration.",
+          "paragraphs": [
+            "Motivation and Gap: Bringing-Classroom (2026) \u2194 Report-Chiir (2026) | Lineage Distance: 6 hops | Bridge Priority Score: 4.8900",
+            "Hypothesis Statement (Bringing-Class-Report-Chiir): [Proposed Hypothesis] Within the retrieved literature on Generative AI & Academic Integrity: How universities detect and policy-manage LLM-generated coursework vs. fostering creative integration., Bringing-Classroom notes the challenge: \"Addresses technical constraints in: The recent emergence of generative AI and Large Language Models (LLMs), particularly following the release of ChatGPT in late 2022, has significantly impacted b\", whereas Report-Chiir notes: \"The workshop brought together researchers in human information interaction and information retrieval to explore key challenges and opportunities in designing and evaluating future academic search systems that integrate GenAI, moving beyond \". We hypothesize that combining the complementary mechanisms of Bringing-Classroom and Report-Chiir represents a promising future research direction for Generative AI & Academic Integrity: How universities detect and policy-manage LLM-generated coursework vs. fostering creative integration..",
+            "Conceptual Formulation: Conceptual integration of Bringing-Classroom and Report-Chiir (proposed design; empirical validation not yet performed)",
+            "Proposed Evaluation Protocol and Falsification Criteria: Proposed 4-part ablation design on retrieved domain evaluation settings: (i) standalone Bringing-Classroom, (ii) standalone Report-Chiir, (iii) unregularized combination, and (iv) full proposed Bringing-Class-Report-Chiir integration.",
+            "Target Outcomes to Test: Domain-Specific Task Performance, Computational Overhead, Generalization Stability, Ablation Sensitivity Across Hyperparameters, Multi-Seed Variance / Confidence Intervals",
+            "Methodological Scope Refinements: Addressed review feedback (Formulate a 4-part ablation protocol comparing standalone Bringing-Classroom, standalone Report-Chiir, unregularized hybrid, and full Bringing-Class-Report-Chiir.; Specify falsifiable evaluation criteria and multi-seed variance controls without claiming unperformed experiments as established fact.) by specifying a falsifiable 4-part ablation protocol, grounding baselines in the retrieved corpus, and explicitly labeling Bringing-Class-Report-Chiir as an unverified research proposal."
+          ]
+        },
+        {
+          "subheading": "IV.B Proposed Research Direction (Patterns-Learn-Because-Wild): Integrating Patterns-Learner-ai and Because-Wild for Generative AI & Academic Integrity: How universities detect and policy-manage LLM-generated coursework vs. fostering creative integration.",
+          "paragraphs": [
+            "Motivation and Gap: Patterns-Learner-ai (2026) \u2194 Because-Wild (2026) | Lineage Distance: 6 hops | Bridge Priority Score: 4.8900",
+            "Hypothesis Statement (Patterns-Learn-Because-Wild): [Proposed Hypothesis] Within the retrieved literature on Generative AI & Academic Integrity: How universities detect and policy-manage LLM-generated coursework vs. fostering creative integration., Patterns-Learner-ai notes the challenge: \"Generative artificial intelligence (GenAI) tools are increasingly used by students in programming education, yet evidence on their educational impact remains mixed.\", whereas Because-Wild notes: \"Generative AI challenges academic integrity not only by enabling students to delegate substantial portions of their academic work, but also by blurring the ethical boundaries by which students distinguish acceptable assistance from miscondu\". We hypothesize that combining the complementary mechanisms of Patterns-Learner-ai and Because-Wild represents a promising future research direction for Generative AI & Academic Integrity: How universities detect and policy-manage LLM-generated coursework vs. fostering creative integration..",
+            "Conceptual Formulation: Conceptual integration of Patterns-Learner-ai and Because-Wild (proposed design; empirical validation not yet performed)",
+            "Proposed Evaluation Protocol and Falsification Criteria: Proposed 4-part ablation design on retrieved domain evaluation settings: (i) standalone Patterns-Learner-ai, (ii) standalone Because-Wild, (iii) unregularized combination, and (iv) full proposed Patterns-Learn-Because-Wild integration.",
+            "Target Outcomes to Test: Domain-Specific Task Performance, Computational Overhead, Generalization Stability, Ablation Sensitivity Across Hyperparameters, Multi-Seed Variance / Confidence Intervals",
+            "Methodological Scope Refinements: Addressed review feedback (Formulate a 4-part ablation protocol comparing standalone Patterns-Learner-ai, standalone Because-Wild, unregularized hybrid, and full Patterns-Learn-Because-Wild.; Specify falsifiable evaluation criteria and multi-seed variance controls without claiming unperformed experiments as established fact.) by specifying a falsifiable 4-part ablation protocol, grounding baselines in the retrieved corpus, and explicitly labeling Patterns-Learn-Because-Wild as an unverified research proposal."
+          ]
+        },
+        {
+          "subheading": "IV.C Proposed Research Direction (GenAI-RTS-Impacts-Genera): Integrating GenAI-RTS and Impacts-Generative for Generative AI & Academic Integrity: How universities detect and policy-manage LLM-generated coursework vs. fostering creative integration.",
+          "paragraphs": [
+            "Motivation and Gap: GenAI-RTS (2026) \u2194 Impacts-Generative (2026) | Lineage Distance: 6 hops | Bridge Priority Score: 4.8900",
+            "Hypothesis Statement (GenAI-RTS-Impacts-Genera): [Proposed Hypothesis] Within the retrieved literature on Generative AI & Academic Integrity: How universities detect and policy-manage LLM-generated coursework vs. fostering creative integration., GenAI-RTS notes the challenge: \"Addresses technical constraints in: As generative AI (GenAI) becomes increasingly embedded in undergraduate academic writing, how students rely on these tools, rather than simply whether they use \", whereas Impacts-Generative notes: \"Development was also uneven across skills, with improvement in evaluating GenAI outputs perceived as more challenging; assignments were the most frequently selected driver of skill growth.\". We hypothesize that combining the complementary mechanisms of GenAI-RTS and Impacts-Generative represents a promising future research direction for Generative AI & Academic Integrity: How universities detect and policy-manage LLM-generated coursework vs. fostering creative integration..",
+            "Conceptual Formulation: Conceptual integration of GenAI-RTS and Impacts-Generative (proposed design; empirical validation not yet performed)",
+            "Proposed Evaluation Protocol and Falsification Criteria: Proposed 4-part ablation design on retrieved domain evaluation settings: (i) standalone GenAI-RTS, (ii) standalone Impacts-Generative, (iii) unregularized combination, and (iv) full proposed GenAI-RTS-Impacts-Genera integration.",
+            "Target Outcomes to Test: Domain-Specific Task Performance, Computational Overhead, Generalization Stability, Ablation Sensitivity Across Hyperparameters, Multi-Seed Variance / Confidence Intervals",
+            "Methodological Scope Refinements: Addressed review feedback (Formulate a 4-part ablation protocol comparing standalone GenAI-RTS, standalone Impacts-Generative, unregularized hybrid, and full GenAI-RTS-Impacts-Genera.; Specify falsifiable evaluation criteria and multi-seed variance controls without claiming unperformed experiments as established fact.) by specifying a falsifiable 4-part ablation protocol, grounding baselines in the retrieved corpus, and explicitly labeling GenAI-RTS-Impacts-Genera as an unverified research proposal."
+          ]
+        }
+      ],
+      "citations_used": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "section_id": "conclusion",
+      "number_label": "V",
+      "heading": "Limitations, Open Challenges, and Conclusion",
+      "paragraphs": [
+        "This literature review provides a systematic analysis of the intersection of Generative AI and Academic Integrity. While our synthesis is grounded in abstract-level evidence analysis, it underscores the need for further research on the detection and policy management of LLM-generated coursework, as well as the potential of Generative AI to enhance academic workflows and creative integration. Proposed future directions include integrating complementary mechanisms, such as Bringing-Classroom and Report-Chiir, to develop more effective university policies and detection methods.",
+        "Methodological and Evidence Scope Limitations: In accordance with strict evidence grounding, all summaries of prior work in this manuscript are derived from retrieved abstracts and verified bibliographic records from ArXiv and Semantic Scholar. Comparative observations and knowledge-graph gap analyses represent cross-study synthesis, while the research directions in the preceding section are explicitly framed as falsifiable proposals for future empirical validation."
+      ],
+      "subsections": [],
+      "citations_used": []
+    }
+  ],
+  "comparative_table_rows": [
+    {
+      "ref": "[1]",
+      "study": "Seran et al. (2025)",
+      "venue": "arXiv Preprint (cs.CY) (2025)",
+      "method": "Conceptual-Exploration",
+      "baseline": "Conventional domain baselines",
+      "setting": "Reported in abstract (abstract-only analyzed)",
+      "findings": "Analysis Basis: Abstract-level metadata",
+      "limitation": "The integration of Generative Artificial Intelligence (GenAI) into university-level academic writing presents both opportunities and challenges, particularly in relation to cognitive dissonance (CD)."
+    },
+    {
+      "ref": "[2]",
+      "study": "Groher et al. (2026)",
+      "venue": "arXiv Preprint (cs.CY) (2026)",
+      "method": "Bringing-Classroom",
+      "baseline": "Conventional domain baselines",
+      "setting": "Reported in abstract (abstract-only analyzed)",
+      "findings": "Analysis Basis: Abstract-level metadata",
+      "limitation": "Addresses technical constraints in: The recent emergence of generative AI and Large Language Models (LLMs), particularly following the release of ChatGPT in late 2022, has significantly impacted b"
+    },
+    {
+      "ref": "[3]",
+      "study": "Ng et al. (2025)",
+      "venue": "arXiv Preprint (cs.HC) (2025)",
+      "method": "Understanding-How",
+      "baseline": "Conventional domain baselines",
+      "setting": "Reported in abstract (abstract-only analyzed)",
+      "findings": "Analysis Basis: Abstract-level metadata",
+      "limitation": "However, state-of-the-art GenAI systems driving this transformation are predominantly developed and controlled by a small number of private companies; there is little clarity about their data retention practices and limited user control ove"
+    },
+    {
+      "ref": "[4]",
+      "study": "Liu et al. (2026)",
+      "venue": "arXiv Preprint (cs.IR) (2026)",
+      "method": "Report-Chiir",
+      "baseline": "Conventional domain baselines",
+      "setting": "Reported in abstract (abstract-only analyzed)",
+      "findings": "Analysis Basis: Abstract-level metadata",
+      "limitation": "The workshop brought together researchers in human information interaction and information retrieval to explore key challenges and opportunities in designing and evaluating future academic search systems that integrate GenAI, moving beyond "
+    },
+    {
+      "ref": "[5]",
+      "study": "Lepp (2026)",
+      "venue": "arXiv Preprint (cs.HC) (2026)",
+      "method": "Patterns-Learner-ai",
+      "baseline": "Conventional domain baselines",
+      "setting": "Reported in abstract (abstract-only analyzed)",
+      "findings": "Analysis Basis: Abstract-level metadata",
+      "limitation": "Generative artificial intelligence (GenAI) tools are increasingly used by students in programming education, yet evidence on their educational impact remains mixed."
+    },
+    {
+      "ref": "[6]",
+      "study": "Huang et al. (2024)",
+      "venue": "arXiv Preprint (cs.CY) (2024)",
+      "method": "Prohibition-Adoption",
+      "baseline": "Conventional domain baselines",
+      "setting": "Reported in abstract (abstract-only analyzed)",
+      "findings": "Analysis Basis: Abstract-level metadata",
+      "limitation": "Addresses technical constraints in: This paper aims at comparing the time when Hong Kong universities used to ban ChatGPT to the current periods where it has become integrated in the academic proc"
+    },
+    {
+      "ref": "[7]",
+      "study": "Smith et al. (2024)",
+      "venue": "J HIGH EDUC POLICY M (2025) 1-20 (2024)",
+      "method": "University-Responsible",
+      "baseline": "Conventional domain baselines",
+      "setting": "Reported in abstract (abstract-only analyzed)",
+      "findings": "Analysis Basis: Abstract-level metadata",
+      "limitation": "Despite the growing body of literature about AI's impact on academic integrity for undergraduate students, there has been comparatively little attention on the impacts of generative AI for research integrity, and the vital role of instituti"
+    },
+    {
+      "ref": "[8]",
+      "study": "Kim et al. (2026)",
+      "venue": "arXiv Preprint (cs.HC) (2026)",
+      "method": "Because-Wild",
+      "baseline": "Conventional domain baselines",
+      "setting": "Reported in abstract (abstract-only analyzed)",
+      "findings": "Analysis Basis: Abstract-level metadata",
+      "limitation": "Generative AI challenges academic integrity not only by enabling students to delegate substantial portions of their academic work, but also by blurring the ethical boundaries by which students distinguish acceptable assistance from miscondu"
+    },
+    {
+      "ref": "[9]",
+      "study": "Beale (2025)",
+      "venue": "arXiv Preprint (cs.CY) (2025)",
+      "method": "Computer-Science",
+      "baseline": "Conventional domain baselines",
+      "setting": "Reported in abstract (abstract-only analyzed)",
+      "findings": "Analysis Basis: Abstract-level metadata",
+      "limitation": "At the same time, it highlights challenges including academic integrity concerns, the risk of over-reliance on AI, and difficulties in verifying originality."
+    },
+    {
+      "ref": "[10]",
+      "study": "Hossain et al. (2026)",
+      "venue": "arXiv Preprint (Artificial Intelligence) (2026)",
+      "method": "GenAI-RTS",
+      "baseline": "Conventional domain baselines",
+      "setting": "Reported in abstract (abstract-only analyzed)",
+      "findings": "Evaluated Dimensions: RMSE",
+      "limitation": "Addresses technical constraints in: As generative AI (GenAI) becomes increasingly embedded in undergraduate academic writing, how students rely on these tools, rather than simply whether they use "
+    },
+    {
+      "ref": "[11]",
+      "study": "Fan et al. (2026)",
+      "venue": "arXiv Preprint (cs.HC) (2026)",
+      "method": "Impacts-Generative",
+      "baseline": "Conventional domain baselines",
+      "setting": "Reported in abstract (abstract-only analyzed)",
+      "findings": "Reported Figure (Abstract): 34.2%",
+      "limitation": "Development was also uneven across skills, with improvement in evaluating GenAI outputs perceived as more challenging; assignments were the most frequently selected driver of skill growth."
+    },
+    {
+      "ref": "[12]",
+      "study": "Pudasaini et al. (2024)",
+      "venue": "arXiv Preprint (cs.CY) (2024)",
+      "method": "Plagiarism-Detection",
+      "baseline": "Conventional domain baselines",
+      "setting": "Reported in abstract (abstract-only analyzed)",
+      "findings": "Analysis Basis: Abstract-level metadata",
+      "limitation": "The rise of Large Language Models (LLMs) such as ChatGPT and Gemini has posed new challenges for the academic community."
+    },
+    {
+      "ref": "[13]",
+      "study": "Pereira (2026)",
+      "venue": "arXiv Preprint (cs.CY) (2026)",
+      "method": "Who-Author",
+      "baseline": "Conventional domain baselines",
+      "setting": "Reported in abstract (abstract-only analyzed)",
+      "findings": "Analysis Basis: Abstract-level metadata",
+      "limitation": "The widespread adoption of generative artificial intelligence (GenAI) tools in higher education has fundamentally altered the conditions under which academic work is produced, challenging long-standing assumptions about authorship, responsi"
+    },
+    {
+      "ref": "[14]",
+      "study": "Skogvoll et al. (2025)",
+      "venue": "arXiv Preprint (physics.ed-ph) (2025)",
+      "method": "How-Physics",
+      "baseline": "Conventional domain baselines",
+      "setting": "Reported in abstract (abstract-only analyzed)",
+      "findings": "Analysis Basis: Abstract-level metadata",
+      "limitation": "These findings reveal how GenAI is beginning to transform what it means to be a physicist, highlighting both opportunities for innovation and challenges for academic integrity and learning."
+    },
+    {
+      "ref": "[15]",
+      "study": "Perkins et al. (2024)",
+      "venue": "arXiv Preprint (cs.HC) (2024)",
+      "method": "Generative-Tools",
+      "baseline": "Conventional domain baselines",
+      "setting": "Reported in abstract (abstract-only analyzed)",
+      "findings": "Analysis Basis: Abstract-level metadata",
+      "limitation": "However, their integration into academic practice raises significant questions regarding research integrity and security, authorship, and the changing nature of scholarly work."
+    },
+    {
+      "ref": "[16]",
+      "study": "Lin (2023)",
+      "venue": "Nature Biomedical Engineering, 9, 426-431 (2025) (2023)",
+      "method": "Techniques-Supercharging",
+      "baseline": "Conventional domain baselines",
+      "setting": "Reported in abstract (abstract-only analyzed)",
+      "findings": "Analysis Basis: Abstract-level metadata",
+      "limitation": "Addresses technical constraints in: Academic writing is an indispensable yet laborious part of the research enterprise."
+    },
+    {
+      "ref": "[17]",
+      "study": "Bodei et al. (2026)",
+      "venue": "arXiv Preprint (cs.HC) (2026)",
+      "method": "Co-Writing-with-AI",
+      "baseline": "Conventional domain baselines",
+      "setting": "Reported in abstract (abstract-only analyzed)",
+      "findings": "Analysis Basis: Abstract-level metadata",
+      "limitation": "Addresses technical constraints in: Despite AI tools becoming increasingly embedded in academic practice, little is known about how university students integrate them into their writing processes."
+    },
+    {
+      "ref": "[18]",
+      "study": "Ammari et al. (2026)",
+      "venue": "arXiv Preprint (cs.HC) (2026)",
+      "method": "Retrieval-Synthesis",
+      "baseline": "Conventional domain baselines",
+      "setting": "Reported in abstract (abstract-only analyzed)",
+      "findings": "Analysis Basis: Abstract-level metadata",
+      "limitation": "While normative AI literacy frameworks proliferate, empirical understanding of how students actually learn to work with generative AI remains limited."
+    },
+    {
+      "ref": "[19]",
+      "study": "Perdikoulias et al. (2025)",
+      "venue": "arXiv Preprint (cs.CY) (2025)",
+      "method": "Generative-Multiple",
+      "baseline": "Conventional domain baselines",
+      "setting": "Reported in abstract (abstract-only analyzed)",
+      "findings": "Evaluated Dimensions: Accuracy",
+      "limitation": "However, ensuring the mathematical accuracy and semantic integrity of generative AI output remains a significant challenge, particularly in Science, Technology, Engineering and Mathematics (STEM) disciplines."
+    },
+    {
+      "ref": "[20]",
+      "study": "Kundu et al. (2024)",
+      "venue": "arXiv Preprint (Computer Vision) (2024)",
+      "method": "Keystroke-Dynamics",
+      "baseline": "Conventional domain baselines",
+      "setting": "Reported in abstract (abstract-only analyzed)",
+      "findings": "Reported Figure (Abstract): 74.98%",
+      "limitation": "Addresses technical constraints in: The transition to online examinations and assignments raises significant concerns about academic integrity."
+    }
+  ],
+  "structural_hole_rows": [
+    {
+      "rank": "1",
+      "pair": "Bringing-Classroom <-> Report-Chiir",
+      "distance": "6 hops",
+      "score": "4.8900",
+      "shared_context": "retrieved domain evaluation settings"
+    },
+    {
+      "rank": "2",
+      "pair": "Patterns-Learner-ai <-> Because-Wild",
+      "distance": "6 hops",
+      "score": "4.8900",
+      "shared_context": "retrieved domain evaluation settings"
+    },
+    {
+      "rank": "3",
+      "pair": "GenAI-RTS <-> Impacts-Generative",
+      "distance": "6 hops",
+      "score": "4.8900",
+      "shared_context": "retrieved domain evaluation settings"
+    }
+  ],
+  "proposed_directions": [
+    {
+      "hypothesis_id": "H-1",
+      "short_name": "Bringing-Class-Report-Chiir",
+      "title": "Proposed Research Direction (Bringing-Class-Report-Chiir): Integrating Bringing-Classroom and Report-Chiir for Generative AI & Academic Integrity: How universities detect and policy-manage LLM-generated coursework vs. fostering creative integration.",
+      "structural_hole_bridged": "Bringing-Classroom (2026) \u2194 Report-Chiir (2026) | Lineage Distance: 6 hops | Bridge Priority Score: 4.8900",
+      "concept_a": "Bringing-Classroom",
+      "concept_b": "Report-Chiir",
+      "core_claim": "[Proposed Hypothesis] Within the retrieved literature on Generative AI & Academic Integrity: How universities detect and policy-manage LLM-generated coursework vs. fostering creative integration., Bringing-Classroom notes the challenge: \"Addresses technical constraints in: The recent emergence of generative AI and Large Language Models (LLMs), particularly following the release of ChatGPT in late 2022, has significantly impacted b\", whereas Report-Chiir notes: \"The workshop brought together researchers in human information interaction and information retrieval to explore key challenges and opportunities in designing and evaluating future academic search systems that integrate GenAI, moving beyond \". We hypothesize that combining the complementary mechanisms of Bringing-Classroom and Report-Chiir represents a promising future research direction for Generative AI & Academic Integrity: How universities detect and policy-manage LLM-generated coursework vs. fostering creative integration..",
+      "mathematical_formulation": "Conceptual integration of Bringing-Classroom and Report-Chiir (proposed design; empirical validation not yet performed)",
+      "theoretical_guarantee": "Falsifiable Hypothesis Specification 1 (Bringing-Class-Report-Chiir): Specifies concrete evaluation criteria for testing whether integrating Bringing-Classroom and Report-Chiir improves robustness and efficiency on retrieved domain evaluation settings. (Status: Proposed future direction; not claimed as an experimentally validated theorem).",
+      "algorithmic_mechanism": "Proposed architecture couples the core mechanism of Bringing-Classroom with Report-Chiir to investigate whether their joint formulation mitigates the limitations identified in the retrieved abstracts.",
+      "experimental_setup": "Proposed 4-part ablation design on retrieved domain evaluation settings: (i) standalone Bringing-Classroom, (ii) standalone Report-Chiir, (iii) unregularized combination, and (iv) full proposed Bringing-Class-Report-Chiir integration.",
+      "datasets": [
+        "retrieved domain evaluation settings"
+      ],
+      "baselines": [
+        "Bringing-Classroom",
+        "Report-Chiir",
+        "Retrieval-Synthesis",
+        "Co-Writing-with-AI",
+        "Standalone-Bringing-Classroom",
+        "Standalone-Report-Chiir",
+        "Ablated-Hybrid-Variant"
+      ],
+      "evaluation_metrics": [
+        "Domain-Specific Task Performance",
+        "Computational Overhead",
+        "Generalization Stability",
+        "Ablation Sensitivity Across Hyperparameters",
+        "Multi-Seed Variance / Confidence Intervals"
+      ],
+      "complexity_and_feasibility": "Explicitly separates published evidence (Retrieval-Synthesis (arXiv:2601.20749, 2026), Co-Writing-with-AI (arXiv:2604.25389, 2026)) from proposed integration overhead on retrieved domain evaluation settings.",
+      "supporting_citations": [
+        "Retrieval-Synthesis (arXiv:2601.20749, 2026)",
+        "Co-Writing-with-AI (arXiv:2604.25389, 2026)",
+        "Computer-Science (arXiv:2507.02183, 2025)"
+      ],
+      "revision_notes": [
+        "Addressed review feedback (Formulate a 4-part ablation protocol comparing standalone Bringing-Classroom, standalone Report-Chiir, unregularized hybrid, and full Bringing-Class-Report-Chiir.; Specify falsifiable evaluation criteria and multi-seed variance controls without claiming unperformed experiments as established fact.) by specifying a falsifiable 4-part ablation protocol, grounding baselines in the retrieved corpus, and explicitly labeling Bringing-Class-Report-Chiir as an unverified research proposal."
+      ],
+      "claim_status": "proposed",
+      "iteration": 2
+    },
+    {
+      "hypothesis_id": "H-2",
+      "short_name": "Patterns-Learn-Because-Wild",
+      "title": "Proposed Research Direction (Patterns-Learn-Because-Wild): Integrating Patterns-Learner-ai and Because-Wild for Generative AI & Academic Integrity: How universities detect and policy-manage LLM-generated coursework vs. fostering creative integration.",
+      "structural_hole_bridged": "Patterns-Learner-ai (2026) \u2194 Because-Wild (2026) | Lineage Distance: 6 hops | Bridge Priority Score: 4.8900",
+      "concept_a": "Patterns-Learner-ai",
+      "concept_b": "Because-Wild",
+      "core_claim": "[Proposed Hypothesis] Within the retrieved literature on Generative AI & Academic Integrity: How universities detect and policy-manage LLM-generated coursework vs. fostering creative integration., Patterns-Learner-ai notes the challenge: \"Generative artificial intelligence (GenAI) tools are increasingly used by students in programming education, yet evidence on their educational impact remains mixed.\", whereas Because-Wild notes: \"Generative AI challenges academic integrity not only by enabling students to delegate substantial portions of their academic work, but also by blurring the ethical boundaries by which students distinguish acceptable assistance from miscondu\". We hypothesize that combining the complementary mechanisms of Patterns-Learner-ai and Because-Wild represents a promising future research direction for Generative AI & Academic Integrity: How universities detect and policy-manage LLM-generated coursework vs. fostering creative integration..",
+      "mathematical_formulation": "Conceptual integration of Patterns-Learner-ai and Because-Wild (proposed design; empirical validation not yet performed)",
+      "theoretical_guarantee": "Falsifiable Hypothesis Specification 2 (Patterns-Learn-Because-Wild): Specifies concrete evaluation criteria for testing whether integrating Patterns-Learner-ai and Because-Wild improves robustness and efficiency on retrieved domain evaluation settings. (Status: Proposed future direction; not claimed as an experimentally validated theorem).",
+      "algorithmic_mechanism": "Proposed architecture couples the core mechanism of Patterns-Learner-ai with Because-Wild to investigate whether their joint formulation mitigates the limitations identified in the retrieved abstracts.",
+      "experimental_setup": "Proposed 4-part ablation design on retrieved domain evaluation settings: (i) standalone Patterns-Learner-ai, (ii) standalone Because-Wild, (iii) unregularized combination, and (iv) full proposed Patterns-Learn-Because-Wild integration.",
+      "datasets": [
+        "retrieved domain evaluation settings"
+      ],
+      "baselines": [
+        "Patterns-Learner-ai",
+        "Because-Wild",
+        "Retrieval-Synthesis",
+        "Co-Writing-with-AI",
+        "Standalone-Patterns-Learner-ai",
+        "Standalone-Because-Wild",
+        "Ablated-Hybrid-Variant"
+      ],
+      "evaluation_metrics": [
+        "Domain-Specific Task Performance",
+        "Computational Overhead",
+        "Generalization Stability",
+        "Ablation Sensitivity Across Hyperparameters",
+        "Multi-Seed Variance / Confidence Intervals"
+      ],
+      "complexity_and_feasibility": "Explicitly separates published evidence (Retrieval-Synthesis (arXiv:2601.20749, 2026), Co-Writing-with-AI (arXiv:2604.25389, 2026)) from proposed integration overhead on retrieved domain evaluation settings.",
+      "supporting_citations": [
+        "Retrieval-Synthesis (arXiv:2601.20749, 2026)",
+        "Co-Writing-with-AI (arXiv:2604.25389, 2026)",
+        "Patterns-Learner-ai (arXiv:2607.24755, 2026)"
+      ],
+      "revision_notes": [
+        "Addressed review feedback (Formulate a 4-part ablation protocol comparing standalone Patterns-Learner-ai, standalone Because-Wild, unregularized hybrid, and full Patterns-Learn-Because-Wild.; Specify falsifiable evaluation criteria and multi-seed variance controls without claiming unperformed experiments as established fact.) by specifying a falsifiable 4-part ablation protocol, grounding baselines in the retrieved corpus, and explicitly labeling Patterns-Learn-Because-Wild as an unverified research proposal."
+      ],
+      "claim_status": "proposed",
+      "iteration": 2
+    },
+    {
+      "hypothesis_id": "H-3",
+      "short_name": "GenAI-RTS-Impacts-Genera",
+      "title": "Proposed Research Direction (GenAI-RTS-Impacts-Genera): Integrating GenAI-RTS and Impacts-Generative for Generative AI & Academic Integrity: How universities detect and policy-manage LLM-generated coursework vs. fostering creative integration.",
+      "structural_hole_bridged": "GenAI-RTS (2026) \u2194 Impacts-Generative (2026) | Lineage Distance: 6 hops | Bridge Priority Score: 4.8900",
+      "concept_a": "GenAI-RTS",
+      "concept_b": "Impacts-Generative",
+      "core_claim": "[Proposed Hypothesis] Within the retrieved literature on Generative AI & Academic Integrity: How universities detect and policy-manage LLM-generated coursework vs. fostering creative integration., GenAI-RTS notes the challenge: \"Addresses technical constraints in: As generative AI (GenAI) becomes increasingly embedded in undergraduate academic writing, how students rely on these tools, rather than simply whether they use \", whereas Impacts-Generative notes: \"Development was also uneven across skills, with improvement in evaluating GenAI outputs perceived as more challenging; assignments were the most frequently selected driver of skill growth.\". We hypothesize that combining the complementary mechanisms of GenAI-RTS and Impacts-Generative represents a promising future research direction for Generative AI & Academic Integrity: How universities detect and policy-manage LLM-generated coursework vs. fostering creative integration..",
+      "mathematical_formulation": "Conceptual integration of GenAI-RTS and Impacts-Generative (proposed design; empirical validation not yet performed)",
+      "theoretical_guarantee": "Falsifiable Hypothesis Specification 3 (GenAI-RTS-Impacts-Genera): Specifies concrete evaluation criteria for testing whether integrating GenAI-RTS and Impacts-Generative improves robustness and efficiency on retrieved domain evaluation settings. (Status: Proposed future direction; not claimed as an experimentally validated theorem).",
+      "algorithmic_mechanism": "Proposed architecture couples the core mechanism of GenAI-RTS with Impacts-Generative to investigate whether their joint formulation mitigates the limitations identified in the retrieved abstracts.",
+      "experimental_setup": "Proposed 4-part ablation design on retrieved domain evaluation settings: (i) standalone GenAI-RTS, (ii) standalone Impacts-Generative, (iii) unregularized combination, and (iv) full proposed GenAI-RTS-Impacts-Genera integration.",
+      "datasets": [
+        "retrieved domain evaluation settings"
+      ],
+      "baselines": [
+        "GenAI-RTS",
+        "Impacts-Generative",
+        "Retrieval-Synthesis",
+        "Computer-Science",
+        "Standalone-GenAI-RTS",
+        "Standalone-Impacts-Generative",
+        "Ablated-Hybrid-Variant"
+      ],
+      "evaluation_metrics": [
+        "Domain-Specific Task Performance",
+        "Computational Overhead",
+        "Generalization Stability",
+        "Ablation Sensitivity Across Hyperparameters",
+        "Multi-Seed Variance / Confidence Intervals"
+      ],
+      "complexity_and_feasibility": "Explicitly separates published evidence (Retrieval-Synthesis (arXiv:2601.20749, 2026), Computer-Science (arXiv:2507.02183, 2025)) from proposed integration overhead on retrieved domain evaluation settings.",
+      "supporting_citations": [
+        "Retrieval-Synthesis (arXiv:2601.20749, 2026)",
+        "Computer-Science (arXiv:2507.02183, 2025)",
+        "Because-Wild (arXiv:2605.29090, 2026)"
+      ],
+      "revision_notes": [
+        "Addressed review feedback (Formulate a 4-part ablation protocol comparing standalone GenAI-RTS, standalone Impacts-Generative, unregularized hybrid, and full GenAI-RTS-Impacts-Genera.; Specify falsifiable evaluation criteria and multi-seed variance controls without claiming unperformed experiments as established fact.) by specifying a falsifiable 4-part ablation protocol, grounding baselines in the retrieved corpus, and explicitly labeling GenAI-RTS-Impacts-Genera as an unverified research proposal."
+      ],
+      "claim_status": "proposed",
+      "iteration": 2
+    }
+  ],
+  "bibliography": [
+    {
+      "index": 1,
+      "paper_id": "arXiv:2502.05698",
+      "title": "A Conceptual Exploration of Generative AI-Induced Cognitive Dissonance and its Emergence in University-Level Academic Writing",
+      "authors": [
+        "Carl Errol Seran",
+        "Myles Joshua Toledo Tan",
+        "Hezerul Abdul Karim",
+        "Nouar AlDahoul"
+      ],
+      "year": 2025,
+      "venue": "arXiv Preprint (cs.CY)",
+      "url": "https://arxiv.org/abs/2502.05698",
+      "source": "arxiv",
+      "analysis_scope": "abstract_only"
+    },
+    {
+      "index": 2,
+      "paper_id": "arXiv:2604.16328",
+      "title": "Bringing AI into the Classroom: A Structured Approach for Integrating AI into Software Engineering Education",
+      "authors": [
+        "Iris Groher",
+        "Michael Vierhauser",
+        "Markus Weninger"
+      ],
+      "year": 2026,
+      "venue": "arXiv Preprint (cs.CY)",
+      "url": "https://arxiv.org/abs/2604.16328",
+      "source": "arxiv",
+      "analysis_scope": "abstract_only"
+    },
+    {
+      "index": 3,
+      "paper_id": "arXiv:2506.20463",
+      "title": "Understanding How University Guidelines Address Privacy and Security Issues of Generative AI in Academic Settings",
+      "authors": [
+        "Bei Yi Ng",
+        "Jiarui Li",
+        "Xinyuan Tong",
+        "Kevin Ye",
+        "Gauthami Yenne",
+        "Varun Chandrasekaran",
+        "Jingjie Li"
+      ],
+      "year": 2025,
+      "venue": "arXiv Preprint (cs.HC)",
+      "url": "https://arxiv.org/abs/2506.20463",
+      "source": "arxiv",
+      "analysis_scope": "abstract_only"
+    },
+    {
+      "index": 4,
+      "paper_id": "arXiv:2606.08936",
+      "title": "Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS)",
+      "authors": [
+        "Yifan Liu",
+        "Jaime Arguello",
+        "Orland Hoeber",
+        "Chang Liu",
+        "Soo Young Rieh",
+        "Luanne Sinnamon",
+        "Dean Alvarez",
+        "Susan Archambault",
+        "Rob Capra",
+        "Henson Chen",
+        "Charles Costa",
+        "Anita Crescenzi",
+        "Zhitong",
+        "Guan",
+        "Jacek Gwizdka",
+        "Pao-Pei Huang",
+        "Gavindya Jayawardena",
+        "Ghazal Kalhor",
+        "Dagmar Kern",
+        "Oliver Koop",
+        "Alice Li",
+        "Afra Mashhadi",
+        "Gaohui Meng",
+        "Marta Micheli",
+        "Anil B. Murthy",
+        "Kevin Schott",
+        "Sebastian Schulthei\u00df",
+        "Jiwoo Seo",
+        "Phaneendra Sivangula",
+        "Frans van der Sluis",
+        "Xiaoxuan Song",
+        "Silang Wang",
+        "Dan Zhang"
+      ],
+      "year": 2026,
+      "venue": "arXiv Preprint (cs.IR)",
+      "url": "https://arxiv.org/abs/2606.08936",
+      "source": "arxiv",
+      "analysis_scope": "abstract_only"
+    },
+    {
+      "index": 5,
+      "paper_id": "arXiv:2607.24755",
+      "title": "Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course",
+      "authors": [
+        "Marina Lepp"
+      ],
+      "year": 2026,
+      "venue": "arXiv Preprint (cs.HC)",
+      "url": "https://arxiv.org/abs/2607.24755",
+      "source": "arxiv",
+      "analysis_scope": "abstract_only"
+    },
+    {
+      "index": 6,
+      "paper_id": "arXiv:2410.01695",
+      "title": "From Prohibition to Adoption: How Hong Kong Universities Are Navigating ChatGPT in Academic Workflows",
+      "authors": [
+        "Junjun Huang",
+        "Jifan Wu",
+        "Qing Wang",
+        "Kemeng Yuan",
+        "Jiefeng Li",
+        "Di Lu"
+      ],
+      "year": 2024,
+      "venue": "arXiv Preprint (cs.CY)",
+      "url": "https://arxiv.org/abs/2410.01695",
+      "source": "arxiv",
+      "analysis_scope": "abstract_only"
+    },
+    {
+      "index": 7,
+      "paper_id": "arXiv:2404.19244",
+      "title": "A University Framework for the Responsible use of Generative AI in Research",
+      "authors": [
+        "Shannon Smith",
+        "Melissa Tate",
+        "Keri Freeman",
+        "Anne Walsh",
+        "Brian Ballsun-Stanton",
+        "Mark Hooper",
+        "Murray Lane"
+      ],
+      "year": 2024,
+      "venue": "J HIGH EDUC POLICY M (2025) 1-20",
+      "url": "https://arxiv.org/abs/2404.19244",
+      "source": "arxiv",
+      "analysis_scope": "abstract_only"
+    },
+    {
+      "index": 8,
+      "paper_id": "arXiv:2605.29090",
+      "title": "\"It's OK Because...\": The Wild West of Student Rationalization of AI Use in Academic Writing",
+      "authors": [
+        "Jiyoon Kim",
+        "Kentaro Toyama",
+        "Sangmi Kim",
+        "John M. Carroll"
+      ],
+      "year": 2026,
+      "venue": "arXiv Preprint (cs.HC)",
+      "url": "https://arxiv.org/abs/2605.29090",
+      "source": "arxiv",
+      "analysis_scope": "abstract_only"
+    },
+    {
+      "index": 9,
+      "paper_id": "arXiv:2507.02183",
+      "title": "Computer Science Education in the Age of Generative AI",
+      "authors": [
+        "Russell Beale"
+      ],
+      "year": 2025,
+      "venue": "arXiv Preprint (cs.CY)",
+      "url": "https://arxiv.org/abs/2507.02183",
+      "source": "arxiv",
+      "analysis_scope": "abstract_only"
+    },
+    {
+      "index": 10,
+      "paper_id": "arXiv:2607.14301",
+      "title": "Measuring How Students Rely on Generative AI in Academic Writing: Development and Multi-Source Validation of the Generative AI Reliance Types Scale (GenAI-RTS)",
+      "authors": [
+        "Shahin Hossain",
+        "Tukhbita Afroz Nawmi"
+      ],
+      "year": 2026,
+      "venue": "arXiv Preprint (Artificial Intelligence)",
+      "url": "https://arxiv.org/abs/2607.14301",
+      "source": "arxiv",
+      "analysis_scope": "abstract_only"
+    },
+    {
+      "index": 11,
+      "paper_id": "arXiv:2610.30599",
+      "title": "Impacts of generative AI skill development on academic adaptation and learning outcomes among university students",
+      "authors": [
+        "Lei Fan",
+        "Fangxue Liu"
+      ],
+      "year": 2026,
+      "venue": "arXiv Preprint (cs.HC)",
+      "url": "https://arxiv.org/abs/2610.30599",
+      "source": "arxiv",
+      "analysis_scope": "abstract_only"
+    },
+    {
+      "index": 12,
+      "paper_id": "arXiv:2407.13105",
+      "title": "Survey on Plagiarism Detection in Large Language Models: The Impact of ChatGPT and Gemini on Academic Integrity",
+      "authors": [
+        "Shushanta Pudasaini",
+        "Luis Miralles-Pechu\u00e1n",
+        "David Lillis",
+        "Marisa Llorens Salvador"
+      ],
+      "year": 2024,
+      "venue": "arXiv Preprint (cs.CY)",
+      "url": "https://arxiv.org/abs/2407.13105",
+      "source": "arxiv",
+      "analysis_scope": "abstract_only"
+    },
+    {
+      "index": 13,
+      "paper_id": "arXiv:2604.04700",
+      "title": "Who is the author? A legal and normative view of authorship in Generative AI-aided academic works",
+      "authors": [
+        "David M. Pereira"
+      ],
+      "year": 2026,
+      "venue": "arXiv Preprint (cs.CY)",
+      "url": "https://arxiv.org/abs/2604.04700",
+      "source": "arxiv",
+      "analysis_scope": "abstract_only"
+    },
+    {
+      "index": 14,
+      "paper_id": "arXiv:2511.11317",
+      "title": "How Physics Professors Use and Frame Generative AI Tools",
+      "authors": [
+        "Vidar Skogvoll",
+        "Tor Ole Odden"
+      ],
+      "year": 2025,
+      "venue": "arXiv Preprint (physics.ed-ph)",
+      "url": "https://arxiv.org/abs/2511.11317",
+      "source": "arxiv",
+      "analysis_scope": "abstract_only"
+    },
+    {
+      "index": 15,
+      "paper_id": "arXiv:2408.06872",
+      "title": "Generative AI Tools in Academic Research: Applications and Implications for Qualitative and Quantitative Research Methodologies",
+      "authors": [
+        "Mike Perkins",
+        "Jasper Roe"
+      ],
+      "year": 2024,
+      "venue": "arXiv Preprint (cs.HC)",
+      "url": "https://arxiv.org/abs/2408.06872",
+      "source": "arxiv",
+      "analysis_scope": "abstract_only"
+    },
+    {
+      "index": 16,
+      "paper_id": "arXiv:2310.17143",
+      "title": "Techniques for supercharging academic writing with generative AI",
+      "authors": [
+        "Zhicheng Lin"
+      ],
+      "year": 2023,
+      "venue": "Nature Biomedical Engineering, 9, 426-431 (2025)",
+      "url": "https://arxiv.org/abs/2310.17143",
+      "source": "arxiv",
+      "analysis_scope": "abstract_only"
+    },
+    {
+      "index": 17,
+      "paper_id": "arXiv:2604.25389",
+      "title": "Co-Writing with AI: An Empirical Study of Diverse Academic Writing Workflows",
+      "authors": [
+        "Silvia Bodei",
+        "Duncan P. Brumby",
+        "Katie Fisher",
+        "Jon Mella"
+      ],
+      "year": 2026,
+      "venue": "arXiv Preprint (cs.HC)",
+      "url": "https://arxiv.org/abs/2604.25389",
+      "source": "arxiv",
+      "analysis_scope": "abstract_only"
+    },
+    {
+      "index": 18,
+      "paper_id": "arXiv:2601.20749",
+      "title": "From Retrieval to Synthesis: Repair Literacy and the Domestication of Generative AI",
+      "authors": [
+        "Tawfiq Ammari",
+        "Meilun Chen",
+        "S M Mehedi Zaman",
+        "Kiran Garimella"
+      ],
+      "year": 2026,
+      "venue": "arXiv Preprint (cs.HC)",
+      "url": "https://arxiv.org/abs/2601.20749",
+      "source": "arxiv",
+      "analysis_scope": "abstract_only"
+    },
+    {
+      "index": 19,
+      "paper_id": "arXiv:2506.02094",
+      "title": "Generative AI for Multiple Choice STEM Assessments",
+      "authors": [
+        "Christina Perdikoulias",
+        "Chad Vance",
+        "Stephen M. Watt"
+      ],
+      "year": 2025,
+      "venue": "arXiv Preprint (cs.CY)",
+      "url": "https://arxiv.org/abs/2506.02094",
+      "source": "arxiv",
+      "analysis_scope": "abstract_only"
+    },
+    {
+      "index": 20,
+      "paper_id": "arXiv:2406.15335",
+      "title": "Keystroke Dynamics Against Academic Dishonesty in the Age of LLMs",
+      "authors": [
+        "Debnath Kundu",
+        "Atharva Mehta",
+        "Rajesh Kumar",
+        "Naman Lal",
+        "Avinash Anand",
+        "Apoorv Singh",
+        "Rajiv Ratn Shah"
+      ],
+      "year": 2024,
+      "venue": "arXiv Preprint (Computer Vision)",
+      "url": "https://arxiv.org/abs/2406.15335",
+      "source": "arxiv",
+      "analysis_scope": "abstract_only"
+    }
+  ],
+  "quality_review": {
+    "approved": true,
+    "iteration": 1,
+    "topic_relevance_passed": true,
+    "citation_verification_passed": true,
+    "factual_grounding_passed": true,
+    "issues": [],
+    "corrected_sections": [],
+    "summary_notes": [
+      "Audited 5 sections against 20 verified sources for topic 'Generative AI & Academic Integrity: How universities detect and policy-manage LLM-generated coursework vs. fostering creative integration.'."
+    ]
+  },
+  "knowledge_graph_image_path": "/Users/saumyya/Developer/Scientist/output/knowledge_graph.jpg",
+  "limitations_and_scope_notice": "",
+  "kg_summary": {},
+  "llm_diagnostics": [
+    {
+      "stage": "manuscript_synthesis",
+      "model": "meta-llama/llama-3.3-70b-instruct",
+      "latency_ms": 37093.3,
+      "status": "success",
+      "error_category": "none",
+      "status_code": 200,
+      "attempt": 1
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "topic": "Red Blue vs Blue Agent using LLM and AI, in a DVWA",
+  "summary": {
+    "topic": "Red Blue vs Blue Agent using LLM and AI, in a DVWA",
+    "total_nodes": 4,
+    "total_edges": 2,
+    "total_triads": 2,
+    "node_type_counts": {
+      "method": 2,
+      "limitation": 2
+    },
+    "methodologies_extracted": 2,
+    "structural_hole_applicable": true
+  },
+  "structural_hole_applicable": true,
+  "nodes": [
+    {
+      "id": "AdvPlan-Bench",
+      "node_type": "method",
+      "year": 2026,
+      "paper_id": "arXiv:2608.00832",
+      "title": "AdvPlan-Bench: Adversarial Evaluation of Structured Plan-Generation Agents",
+      "source": "arxiv",
+      "limitations": "Addresses technical constraints in: Structured plan-generation agents are often evaluated as if a plan has quality in isolation, yet many realistic planning tasks require asking how a candidate be"
+    },
+    {
+      "id": "Addresses technical constraints in: Structured plan-generation agents...",
+      "node_type": "limitation",
+      "year": 2026,
+      "paper_id": "arXiv:2608.00832",
+      "source": "arxiv"
+    },
+    {
+      "id": "Constitutional-Arms",
+      "node_type": "method",
+      "year": 2026,
+      "paper_id": "arXiv:2605.26448",
+      "title": "Constitutional Arms Races in the Public Goods Game: Co-Evolving LLM Constitutions Under Cooperation-Defection Pressure",
+      "source": "arxiv",
+      "limitations": "Frontier LLM agents engage in blackmail, sabotage, and document leaks under goal conflicts in agentic settings, exposing limitations of alignment methods built around single-agent or cooperative assumptions."
+    },
+    {
+      "id": "Frontier LLM agents engage in blackmail, sabotage,...",
+      "node_type": "limitation",
+      "year": 2026,
+      "paper_id": "arXiv:2605.26448",
+      "source": "arxiv"
+    }
+  ],
+  "edges": [
+    {
+      "source": "arxiv",
+      "target": "Addresses technical constraints in: Structured plan-generation agents...",
+      "predicate": "exhibits_limitation",
+      "paper_id": "arXiv:2608.00832",
+      "year": 2026,
+      "evidence": "Addresses technical constraints in: Structured plan-generation agents are often evaluated as if a plan has quality in isolation, yet many realistic planning tasks require asking how a candidate be"
+    },
+    {
+      "source": "arxiv",
+      "target": "Frontier LLM agents engage in blackmail, sabotage,...",
+      "predicate": "exhibits_limitation",
+      "paper_id": "arXiv:2605.26448",
+      "year": 2026,
+      "evidence": "Frontier LLM agents engage in blackmail, sabotage, and document leaks under goal conflicts in agentic settings, exposing limitations of alignment methods built around single-agent or cooperative assumptions."
+    }
+  ],
+  "structural_holes": [
+    {
+      "concept_a": "AdvPlan-Bench",
+      "concept_b": "Constitutional-Arms",
+      "year_a": 2026,
+      "year_b": 2026,
+      "paper_a": "arXiv:2608.00832",
+      "paper_b": "arXiv:2605.26448",
+      "method_graph_distance": 6,
+      "shared_datasets": [
+        "retrieved domain evaluation settings"
+      ],
+      "limitation_a": "Addresses technical constraints in: Structured plan-generation agents are often evaluated as if a plan has quality in isolation, yet many realistic planning tasks require asking how a candidate be",
+      "limitation_b": "Frontier LLM agents engage in blackmail, sabotage, and document leaks under goal conflicts in agentic settings, exposing limitations of alignment methods built around single-agent or cooperative assumptions.",
+      "hole_bridge_score": 11.64,
+      "claim_status": "proposed_hypothesis",
+      "structural_gap_rationale": "Candidate hypothesis: 'AdvPlan-Bench' (2026) and 'Constitutional-Arms' (2026) are 6 hops apart in the retrieved corpus graph without direct integration, while addressing retrieved domain evaluation settings. Investigating their combination is a proposed future direction to address their respective limitations."
+    }
+  ]
+}

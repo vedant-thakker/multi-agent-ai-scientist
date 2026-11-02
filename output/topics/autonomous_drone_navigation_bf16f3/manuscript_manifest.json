@@ -1,0 +1,771 @@
+{
+  "topic": "Autonomous Drone Navigation",
+  "title": "Advances and Challenges in Autonomous Drone Navigation: A Systematic Review of Recent Developments",
+  "subtitle": "Evidence-Grounded Literature Review and Synthesis (8 Verified Studies)",
+  "authors_line": "Automated Scientific Literature Review & Synthesis Pipeline",
+  "affiliation_line": "Topic Scope: Autonomous Drone Navigation | Analysis Level: Abstract & Bibliographic Metadata",
+  "paper_type": "literature_review",
+  "generation_mode": "openrouter_llm",
+  "llm_model_used": "meta-llama/llama-3.3-70b-instruct",
+  "abstract": "Autonomous drone navigation has emerged as a critical area of research, with significant advancements in recent years. This literature review synthesizes the findings of eight retrieved studies [1]\u2013[8] on autonomous drone navigation, highlighting key thematic paradigms, open challenges, and proposed future research directions. The retrieved studies demonstrate the effectiveness of various approaches, including foundation models, large language models, and deep learning-based methods. However, challenges such as obstacle avoidance, weather adaptation, and mission completion remain. This review identifies potential research gaps and proposes future directions, including the integration of complementary mechanisms to enhance autonomous drone navigation. The findings of this review contribute to the understanding of autonomous drone navigation and inform the development of more efficient and effective navigation systems.",
+  "keywords": [
+    "Autonomous Drone Navigation",
+    "Foundation Models",
+    "Large Language Models",
+    "Deep Learning",
+    "Obstacle Avoidance",
+    "Weather Adaptation"
+  ],
+  "research_brief": {
+    "topic": "Autonomous Drone Navigation",
+    "scope_and_definitions": "Systematic literature review and methodological synthesis of Autonomous Drone Navigation, examining 8 retrieved peer-reviewed and preprint studies.",
+    "research_questions": [
+      "RQ1: What are the primary algorithmic and methodological paradigms established across retrieved literature in Autonomous Drone Navigation?",
+      "RQ2: How do existing approaches in Autonomous Drone Navigation compare with respect to evaluation settings, baselines, and documented limitations?",
+      "RQ3: Which under-explored methodological intersections and future research directions emerge from a structured synthesis of Autonomous Drone Navigation?"
+    ],
+    "subtopics": [
+      "Perception, State Estimation & Sensing",
+      "Trajectory Planning, Navigation & Control"
+    ],
+    "intended_paper_type": "literature_review",
+    "disciplinary_terminology": [
+      "autonomous",
+      "drone",
+      "navigation",
+      "FM-Planner",
+      "LLMs",
+      "Cross-modal-Visuomotor",
+      "MiNav",
+      "Autonomous-Drone",
+      "Simulation-based-Autonomou",
+      "Enabled-Autonomous",
+      "Autonomous-Drone-Shinde"
+    ],
+    "inclusion_criteria": [
+      "Primary research or authoritative survey directly addressing Autonomous Drone Navigation.",
+      "Verifiable bibliographic metadata (title, authors, year, abstract, identifier)."
+    ],
+    "exclusion_criteria": [
+      "Studies from unrelated domains without explicit relevance to Autonomous Drone Navigation.",
+      "Unverified citations or claims lacking support in retrieved source abstracts."
+    ],
+    "evidence_requirements": "Every factual claim regarding prior work must map to a retrieved source [1]\u2013[N]. Comparative insights must be labeled as synthesis, and novel research directions must be explicitly framed as proposed hypotheses.",
+    "analysis_granularity_note": "Evidence extraction and comparative synthesis are grounded in retrieved paper abstracts and verified bibliographic metadata; full-text experimental appendices were not directly inspected unless stated in the abstract."
+  },
+  "evidence_ledger": {
+    "topic": "Autonomous Drone Navigation",
+    "total_sources": 8,
+    "claims": [
+      {
+        "claim_id": "SUP-01",
+        "statement": "Xiao et al. (2025) [1] introduced FM-Planner (comparing against Conventional domain baselines) in the context of Reported in abstract (abstract-only analyzed), reporting Analysis Basis: Abstract-level metadata while noting limitations regarding However, their practical applicability and effectiveness in global path planning remain relatively unexplored..",
+        "classification": "supported",
+        "source_paper_ids": [
+          "arXiv:2505.20783"
+        ],
+        "citation_indices": [
+          1
+        ],
+        "evidence_excerpt": "Path planning is a critical component in autonomous drone operations, enabling safe and efficient navigation through complex environments. Recent advances in foundation models, particularly large language models (LLMs) a",
+        "section_target": "thematic_literature_analysis"
+      },
+      {
+        "claim_id": "SUP-02",
+        "statement": "Khan et al. (2025) [2] introduced LLMs (comparing against Conventional domain baselines) in the context of Reported in abstract (abstract-only analyzed), reporting Reported Figure (Abstract): 94%; Evaluated Dimensions: Success Rate while noting limitations regarding Specifically, we incorporate weights for the goals of obstacle avoidance, weather adaptation, and mission completion..",
+        "classification": "supported",
+        "source_paper_ids": [
+          "DOI:10.1609/aaaiss.v6i1.36039"
+        ],
+        "citation_indices": [
+          2
+        ],
+        "evidence_excerpt": "In this paper, a novel large language model (LLM)-based context-aware autonomous drone navigation algorithm is presented. This approach demonstrates the capability of LLMs to navigate complex environments by balancing mu",
+        "section_target": "thematic_literature_analysis"
+      },
+      {
+        "claim_id": "SUP-03",
+        "statement": "Zhang et al. (2025) [3] introduced Cross-modal-Visuomotor (comparing against Conventional domain baselines) in the context of Reported in abstract (abstract-only analyzed), reporting Analysis Basis: Abstract-level metadata while noting limitations regarding Developing effective vision-based navigation algorithms adapting to various scenarios is a significant challenge for autonomous drone systems, with vast potential in diverse real-world applications..",
+        "classification": "supported",
+        "source_paper_ids": [
+          "DOI:10.1109/LRA.2025.3559824"
+        ],
+        "citation_indices": [
+          3
+        ],
+        "evidence_excerpt": "Developing effective vision-based navigation algorithms adapting to various scenarios is a significant challenge for autonomous drone systems, with vast potential in diverse real-world applications. This paper proposes a",
+        "section_target": "thematic_literature_analysis"
+      },
+      {
+        "claim_id": "SUP-04",
+        "statement": "Lam et al. (2025) [4] introduced MiNav (comparing against Conventional domain baselines) in the context of Cluttered Indoor Environments, reporting Reported Figure (Abstract): 20%; Evaluated Dimensions: Accuracy while noting limitations regarding We present the design, implementation, and evaluation of MiNav, a system capable of accurate, efficient and fully autonomous drone navigation in challenging indoor environments, including those where vision-based systems fail..",
+        "classification": "supported",
+        "source_paper_ids": [
+          "DOI:10.1145/3749464"
+        ],
+        "citation_indices": [
+          4
+        ],
+        "evidence_excerpt": "We present the design, implementation, and evaluation of MiNav, a system capable of accurate, efficient and fully autonomous drone navigation in challenging indoor environments, including those where vision-based systems",
+        "section_target": "thematic_literature_analysis"
+      },
+      {
+        "claim_id": "SUP-05",
+        "statement": "Col et al. (2025) [5] introduced Autonomous-Drone (comparing against Visual-Inertial Odometry (VIO)) in the context of Reported in abstract (abstract-only analyzed), reporting Evaluated Dimensions: Collision / Safety Rate while noting limitations regarding Autonomous drone navigation in dense forests remains challenging due to unreliable GNSS signals, difficulty detecting thin branches, and cumulative drift in Visual-Inertial Odometry (VIO)..",
+        "classification": "supported",
+        "source_paper_ids": [
+          "DOI:10.5194/isprs-archives-xlviii-2-w11-2025-87-2025"
+        ],
+        "citation_indices": [
+          5
+        ],
+        "evidence_excerpt": "Abstract. Autonomous drone navigation in dense forests remains challenging due to unreliable GNSS signals, difficulty detecting thin branches, and cumulative drift in Visual-Inertial Odometry (VIO). This work investigate",
+        "section_target": "thematic_literature_analysis"
+      },
+      {
+        "claim_id": "SUP-06",
+        "statement": "Silva et al. (2025) [6] introduced Simulation-based-Autonomou (comparing against Conventional domain baselines) in the context of Reported in abstract (abstract-only analyzed), reporting Analysis Basis: Abstract-level metadata while noting limitations regarding Security and monitoring of large scale areas\u2014such as farms, critical infrastructure, or large urban zones\u2014face significant challenges due to high costs, lack of accessibility, and risks to human personnel..",
+        "classification": "supported",
+        "source_paper_ids": [
+          "DOI:10.1109/CROS66186.2025.11066101"
+        ],
+        "citation_indices": [
+          6
+        ],
+        "evidence_excerpt": "Security and monitoring of large scale areas\u2014such as farms, critical infrastructure, or large urban zones\u2014face significant challenges due to high costs, lack of accessibility, and risks to human personnel. Currently, aut",
+        "section_target": "thematic_literature_analysis"
+      },
+      {
+        "claim_id": "SUP-07",
+        "statement": "Safie et al. (2025) [7] introduced Enabled-Autonomous (comparing against Conventional domain baselines) in the context of Reported in abstract (abstract-only analyzed), reporting Analysis Basis: Abstract-level metadata while noting limitations regarding Experimental results demonstrate that the model achieved perfect QR code detection (average precision 1.00) on static imagery and $88 \\%$ precision on more challenging dynamic footage, indicating robust recognition capability..",
+        "classification": "supported",
+        "source_paper_ids": [
+          "DOI:10.1109/I2CACIS65476.2025.11100664"
+        ],
+        "citation_indices": [
+          7
+        ],
+        "evidence_excerpt": "Chemical plants present hazardous environments for manual safety inspections, driving the need for automated solutions. This paper presents an autonomous drone navigation framework using Quick Response (QR) code markers ",
+        "section_target": "thematic_literature_analysis"
+      },
+      {
+        "claim_id": "SUP-08",
+        "statement": "Shinde et al. (2025) [8] introduced Autonomous-Drone-Shinde (comparing against Proximal Policy Optimization (PPO)) in the context of Cluttered Indoor Environments, PyBullet Simulation, reporting Evaluated Dimensions: Success Rate, Collision / Safety Rate while noting limitations regarding We detail the environment setup, observation space design incorporating ray casting for obstacle detection, and the action space for drone movement..",
+        "classification": "supported",
+        "source_paper_ids": [
+          "DOI:10.1109/GITCON65266.2025.11378297"
+        ],
+        "citation_indices": [
+          8
+        ],
+        "evidence_excerpt": "This paper presents a robust solution for autonomous drone navigation within complex, confined environments using a Proximal Policy Optimization (PPO) based reinforcement learning approach. The proposed system leverages ",
+        "section_target": "thematic_literature_analysis"
+      },
+      {
+        "claim_id": "SYN-01",
+        "statement": "Comparative synthesis across Perception, State Estimation & Sensing ([1], [2], [3], [4], [5], [7], [8]) indicates that methods such as FM-Planner, LLMs, Cross-modal-Visuomotor, MiNav address core objectives in Autonomous Drone Navigation but face complementary trade-offs in scalability, generalization, and assumptions.",
+        "classification": "synthesis",
+        "source_paper_ids": [
+          "arXiv:2505.20783",
+          "DOI:10.1609/aaaiss.v6i1.36039",
+          "DOI:10.1109/LRA.2025.3559824",
+          "DOI:10.1145/3749464",
+          "DOI:10.5194/isprs-archives-xlviii-2-w11-2025-87-2025",
+          "DOI:10.1109/I2CACIS65476.2025.11100664",
+          "DOI:10.1109/GITCON65266.2025.11378297"
+        ],
+        "citation_indices": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          7,
+          8
+        ],
+        "evidence_excerpt": "Synthesized across 7 retrieved studies in theme 'Perception, State Estimation & Sensing'.",
+        "section_target": "comparative_synthesis"
+      },
+      {
+        "claim_id": "SYN-02",
+        "statement": "Comparative synthesis across Trajectory Planning, Navigation & Control ([6]) indicates that methods such as Simulation-based-Autonomou address core objectives in Autonomous Drone Navigation but face complementary trade-offs in scalability, generalization, and assumptions.",
+        "classification": "synthesis",
+        "source_paper_ids": [
+          "DOI:10.1109/CROS66186.2025.11066101"
+        ],
+        "citation_indices": [
+          6
+        ],
+        "evidence_excerpt": "Synthesized across 1 retrieved studies in theme 'Trajectory Planning, Navigation & Control'.",
+        "section_target": "comparative_synthesis"
+      },
+      {
+        "claim_id": "PROP-01",
+        "statement": "Proposed Research Direction (MiNav-Autonomous-Dro): We hypothesize that integrating MiNav with Autonomous-Drone-Shinde can address complementary limitations identified in the literature. Proposed evaluation protocol: Proposed 4-part ablation design on Cluttered Indoor Environments: (i) standalone MiNav, (ii) standalone Autonomous-Drone-Shinde, (iii) unregularized combination, and (iv) full proposed MiNav-Autonomous-Dro integration.",
+        "classification": "proposed",
+        "source_paper_ids": [],
+        "citation_indices": [],
+        "evidence_excerpt": "Formulated as a falsifiable future research direction requiring empirical validation.",
+        "section_target": "proposed_research_directions"
+      },
+      {
+        "claim_id": "PROP-02",
+        "statement": "Proposed Research Direction (FM-Planner-Autonomous-Dro): We hypothesize that integrating FM-Planner with Autonomous-Drone can address complementary limitations identified in the literature. Proposed evaluation protocol: Proposed 4-part ablation design on retrieved domain evaluation settings: (i) standalone FM-Planner, (ii) standalone Autonomous-Drone, (iii) unregularized combination, and (iv) full proposed FM-Planner-Autonomous-Dro integration.",
+        "classification": "proposed",
+        "source_paper_ids": [],
+        "citation_indices": [],
+        "evidence_excerpt": "Formulated as a falsifiable future research direction requiring empirical validation.",
+        "section_target": "proposed_research_directions"
+      },
+      {
+        "claim_id": "PROP-03",
+        "statement": "Proposed Research Direction (LLMs-Cross-modal-Vi): We hypothesize that integrating LLMs with Cross-modal-Visuomotor can address complementary limitations identified in the literature. Proposed evaluation protocol: Proposed 4-part ablation design on retrieved domain evaluation settings: (i) standalone LLMs, (ii) standalone Cross-modal-Visuomotor, (iii) unregularized combination, and (iv) full proposed LLMs-Cross-modal-Vi integration.",
+        "classification": "proposed",
+        "source_paper_ids": [],
+        "citation_indices": [],
+        "evidence_excerpt": "Formulated as a falsifiable future research direction requiring empirical validation.",
+        "section_target": "proposed_research_directions"
+      }
+    ],
+    "evidence_limitations": [
+      "All literature claims are extracted from retrieved paper abstracts and bibliographic metadata (ArXiv / Semantic Scholar).",
+      "Quantitative figures reported in individual abstracts reflect the original authors' experimental protocols and are not directly re-benchmarked in this review."
+    ]
+  },
+  "sections": [
+    {
+      "section_id": "introduction",
+      "number_label": "I",
+      "heading": "Introduction and Scope: Autonomous Drone Navigation",
+      "paragraphs": [
+        "Autonomous drone navigation aims to enable safe and efficient navigation through complex environments, with recent advances in foundation models and large language models [1, 2] offering promising solutions. This review examines the scope of autonomous drone navigation, its core technical objectives, and the contributions of the retrieved studies.",
+        "The primary technical challenges in autonomous drone navigation include obstacle avoidance, weather adaptation, and mission completion, as documented in the retrieved studies [3, 4, 5]. These challenges necessitate the development of more robust and adaptive navigation systems.",
+        "This review employs a systematic metadata and abstract analysis approach, comparative graph mapping, and thematic synthesis to examine the methodologies, baselines, and findings across the retrieved studies [1]\u2013[8]."
+      ],
+      "subsections": [],
+      "citations_used": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        8
+      ]
+    },
+    {
+      "section_id": "thematic_literature_analysis",
+      "number_label": "II",
+      "heading": "Thematic Literature Review of Autonomous Drone Navigation",
+      "paragraphs": [
+        "The retrieved studies demonstrate the effectiveness of various approaches to autonomous drone navigation, including FM-Planner [1], LLMs [2], Cross-modal-Visuomotor [3], MiNav [4], and Autonomous-Drone [5]. These approaches offer complementary strengths, such as improved obstacle avoidance and weather adaptation. However, open limitations, including the need for more robust and adaptive navigation systems, remain. The synthesis of these findings highlights the potential for integrating complementary mechanisms to enhance autonomous drone navigation."
+      ],
+      "subsections": [
+        {
+          "subheading": "II.A Perception, State Estimation & Sensing",
+          "paragraphs": [
+            "Xiao et al. (2025) [1] (\"FM-Planner: Foundation Model Guided Path Planning for Autonomous Drone Navigation,\" arXiv.org) examine FM-Planner in comparison with Conventional domain baselines across Reported in abstract (abstract-only analyzed). Based on the retrieved abstract (Analysis Basis: Abstract-level metadata), the study highlights key findings: \"Path planning is a critical component in autonomous drone operations, enabling safe and efficient navigation through complex environments. Recent advances in foundation models, particularly large language models (LLMs) and vision-language models (VLMs),...\" Documented technical considerations include However, their practical applicability and effectiveness in global path planning remain relatively unexplored..",
+            "Khan et al. (2025) [2] (\"Context-Aware Autonomous Drone Navigation Using Large Language Models (LLMs),\" AAAI Summer Symposia) examine LLMs in comparison with Conventional domain baselines across Reported in abstract (abstract-only analyzed). Based on the retrieved abstract (Reported Figure (Abstract): 94%; Evaluated Dimensions: Success Rate), the study highlights key findings: \"In this paper, a novel large language model (LLM)-based context-aware autonomous drone navigation algorithm is presented. This approach demonstrates the capability of LLMs to navigate complex environments by balancing multisensor objectives with a weighted...\" Documented technical considerations include Specifically, we incorporate weights for the goals of obstacle avoidance, weather adaptation, and mission completion..",
+            "Zhang et al. (2025) [3] (\"Learning Cross-Modal Visuomotor Policies for Autonomous Drone Navigation,\" IEEE Robotics and Automation Letters) examine Cross-modal-Visuomotor in comparison with Conventional domain baselines across Reported in abstract (abstract-only analyzed). Based on the retrieved abstract (Analysis Basis: Abstract-level metadata), the study highlights key findings: \"Developing effective vision-based navigation algorithms adapting to various scenarios is a significant challenge for autonomous drone systems, with vast potential in diverse real-world applications. This paper proposes a novel visuomotor policy learning...\" Documented technical considerations include Developing effective vision-based navigation algorithms adapting to various scenarios is a significant challenge for autonomous drone systems, with vast potential in diverse real-world applications..",
+            "Lam et al. (2025) [4] (\"MiNav: Autonomous Drone Navigation Indoors Using Millimeter-Waves,\" Proceedings of the ACM on Interactive Mobile Wearable and Ubiquitous Technologies) examine MiNav in comparison with Conventional domain baselines across Cluttered Indoor Environments. Based on the retrieved abstract (Reported Figure (Abstract): 20%; Evaluated Dimensions: Accuracy), the study highlights key findings: \"We present the design, implementation, and evaluation of MiNav, a system capable of accurate, efficient and fully autonomous drone navigation in challenging indoor environments, including those where vision-based systems fail. MiNav builds on recent...\" Documented technical considerations include We present the design, implementation, and evaluation of MiNav, a system capable of accurate, efficient and fully autonomous drone navigation in challenging indoor environments, including those where vision-based systems fail..",
+            "Col et al. (2025) [5] (\"Autonomous Drone Navigation in Forest Environments Using Deep Learning,\" The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences) examine Autonomous-Drone in comparison with Visual-Inertial Odometry (VIO) across Reported in abstract (abstract-only analyzed). Based on the retrieved abstract (Evaluated Dimensions: Collision / Safety Rate), the study highlights key findings: \"Abstract. Autonomous drone navigation in dense forests remains challenging due to unreliable GNSS signals, difficulty detecting thin branches, and cumulative drift in Visual-Inertial Odometry (VIO). This work investigates a deep learning-based navigation...\" Documented technical considerations include Autonomous drone navigation in dense forests remains challenging due to unreliable GNSS signals, difficulty detecting thin branches, and cumulative drift in Visual-Inertial Odometry (VIO)..",
+            "Safie et al. (2025) [7] (\"Deep Learning Enabled Autonomous Drone Navigation for Safety Inspections in Chemical Plants,\" 2025 IEEE International Conference on Automatic Control and Intelligent Systems (I2CACIS)) examine Enabled-Autonomous in comparison with Conventional domain baselines across Reported in abstract (abstract-only analyzed). Based on the retrieved abstract (Analysis Basis: Abstract-level metadata), the study highlights key findings: \"Chemical plants present hazardous environments for manual safety inspections, driving the need for automated solutions. This paper presents an autonomous drone navigation framework using Quick Response (QR) code markers and deep learning to enhance safety...\" Documented technical considerations include Experimental results demonstrate that the model achieved perfect QR code detection (average precision 1.00) on static imagery and $88 \\%$ precision on more challenging dynamic footage, indicating robust recognition capability..",
+            "Shinde et al. (2025) [8] (\"Autonomous Drone Navigation Using Reinforcement Learning,\" 2025 Global Conference on Information Technology and Communication Networks (GITCON)) examine Autonomous-Drone-Shinde in comparison with Proximal Policy Optimization (PPO) across Cluttered Indoor Environments, PyBullet Simulation. Based on the retrieved abstract (Evaluated Dimensions: Success Rate, Collision / Safety Rate), the study highlights key findings: \"This paper presents a robust solution for autonomous drone navigation within complex, confined environments using a Proximal Policy Optimization (PPO) based reinforcement learning approach. The proposed system leverages a simulated environment built with...\" Documented technical considerations include We detail the environment setup, observation space design incorporating ray casting for obstacle detection, and the action space for drone movement.."
+          ]
+        },
+        {
+          "subheading": "II.B Trajectory Planning, Navigation & Control",
+          "paragraphs": [
+            "Silva et al. (2025) [6] (\"Simulation-Based Autonomous Drone Navigation for Security and Monitoring Using Deep Reinforcement Learning,\" 2025 Brazilian Conference on Robotics (CROS)) examine Simulation-based-Autonomou in comparison with Conventional domain baselines across Reported in abstract (abstract-only analyzed). Based on the retrieved abstract (Analysis Basis: Abstract-level metadata), the study highlights key findings: \"Security and monitoring of large scale areas\u2014such as farms, critical infrastructure, or large urban zones\u2014face significant challenges due to high costs, lack of accessibility, and risks to human personnel. Currently, autonomous drones show up as a...\" Documented technical considerations include Security and monitoring of large scale areas\u2014such as farms, critical infrastructure, or large urban zones\u2014face significant challenges due to high costs, lack of accessibility, and risks to human personnel.."
+          ]
+        }
+      ],
+      "citations_used": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "section_id": "comparative_synthesis",
+      "number_label": "III",
+      "heading": "Comparative Methodology Synthesis and Knowledge Graph Analysis",
+      "paragraphs": [
+        "Comparing the retrieved approaches reveals complementary strengths and open limitations. For example, FM-Planner and Autonomous-Drone offer robust global path planning and navigation in dense forests, respectively. However, their practical applicability and effectiveness in various scenarios remain relatively unexplored. The integration of these approaches, as proposed in future research directions, may address these limitations and enhance autonomous drone navigation.",
+        "Knowledge Graph Structure: To map explicit relationships across the retrieved corpus, we constructed a directed Subject\u2013Predicate\u2013Object (S-P-O) graph comprising 20 concept nodes, 13 directed edges, and 13 verified provenance triads. Central concepts by PageRank centrality include core domain methodologies.",
+        "Candidate Research Gaps (Structural Holes): Topological analysis identified 3 candidate methodological gaps: (1) MiNav and Autonomous-Drone-Shinde (undirected method distance: 6 hops; bridge score: 7.0638), which address related domain challenges (Cluttered Indoor Environments) without direct methodological integration in the retrieved corpus; (2) FM-Planner and Autonomous-Drone (undirected method distance: 6 hops; bridge score: 5.8246), which address related domain challenges (retrieved domain evaluation settings) without direct methodological integration in the retrieved corpus; (3) LLMs and Cross-modal-Visuomotor (undirected method distance: 6 hops; bridge score: 5.4800), which address related domain challenges (retrieved domain evaluation settings) without direct methodological integration in the retrieved corpus. These structural gaps represent synthesized opportunities for cross-paradigm investigation rather than established empirical results."
+      ],
+      "subsections": [],
+      "citations_used": []
+    },
+    {
+      "section_id": "proposed_research_directions",
+      "number_label": "IV",
+      "heading": "Proposed Future Research Directions in Autonomous Drone Navigation",
+      "paragraphs": [
+        "Disclaimer on Proposed Research Directions: The directions below are formulated by our synthesis pipeline as falsifiable future research hypotheses for Autonomous Drone Navigation. Unlike the published findings reviewed in Section II [1\u20138], these proposed integrations have not yet been empirically benchmarked in this study and are presented as structured protocols for future investigation."
+      ],
+      "subsections": [
+        {
+          "subheading": "IV.A Proposed Research Direction (MiNav-Autonomous-Dro): Integrating MiNav and Autonomous-Drone-Shinde for Autonomous Drone Navigation",
+          "paragraphs": [
+            "Motivation and Gap: MiNav (2025) \u2194 Autonomous-Drone-Shinde (2025) | Lineage Distance: 6 hops | Bridge Priority Score: 7.0638",
+            "Hypothesis Statement (MiNav-Autonomous-Dro): [Proposed Hypothesis] Within the retrieved literature on Autonomous Drone Navigation, MiNav notes the challenge: \"We present the design, implementation, and evaluation of MiNav, a system capable of accurate, efficient and fully autonomous drone navigation in challenging indoor environments, including those where vision-based systems fail.\", whereas Autonomous-Drone-Shinde notes: \"We detail the environment setup, observation space design incorporating ray casting for obstacle detection, and the action space for drone movement.\". We hypothesize that combining the complementary mechanisms of MiNav and Autonomous-Drone-Shinde represents a promising future research direction for Autonomous Drone Navigation.",
+            "Conceptual Formulation: Conceptual integration of MiNav and Autonomous-Drone-Shinde (proposed design; empirical validation not yet performed)",
+            "Proposed Evaluation Protocol and Falsification Criteria: Proposed 4-part ablation design on Cluttered Indoor Environments: (i) standalone MiNav, (ii) standalone Autonomous-Drone-Shinde, (iii) unregularized combination, and (iv) full proposed MiNav-Autonomous-Dro integration.",
+            "Target Outcomes to Test: Domain-Specific Task Performance, Computational Overhead, Generalization Stability, Ablation Sensitivity Across Hyperparameters, Multi-Seed Variance / Confidence Intervals",
+            "Methodological Scope Refinements: Addressed review feedback (Formulate a 4-part ablation protocol comparing standalone MiNav, standalone Autonomous-Drone-Shinde, unregularized hybrid, and full MiNav-Autonomous-Dro.; Specify falsifiable evaluation criteria and multi-seed variance controls without claiming unperformed experiments as established fact.) by specifying a falsifiable 4-part ablation protocol, grounding baselines in the retrieved corpus, and explicitly labeling MiNav-Autonomous-Dro as an unverified research proposal."
+          ]
+        },
+        {
+          "subheading": "IV.B Proposed Research Direction (FM-Planner-Autonomous-Dro): Integrating FM-Planner and Autonomous-Drone for Autonomous Drone Navigation",
+          "paragraphs": [
+            "Motivation and Gap: FM-Planner (2025) \u2194 Autonomous-Drone (2025) | Lineage Distance: 6 hops | Bridge Priority Score: 5.8246",
+            "Hypothesis Statement (FM-Planner-Autonomous-Dro): [Proposed Hypothesis] Within the retrieved literature on Autonomous Drone Navigation, FM-Planner notes the challenge: \"However, their practical applicability and effectiveness in global path planning remain relatively unexplored.\", whereas Autonomous-Drone notes: \"Autonomous drone navigation in dense forests remains challenging due to unreliable GNSS signals, difficulty detecting thin branches, and cumulative drift in Visual-Inertial Odometry (VIO).\". We hypothesize that combining the complementary mechanisms of FM-Planner and Autonomous-Drone represents a promising future research direction for Autonomous Drone Navigation.",
+            "Conceptual Formulation: Conceptual integration of FM-Planner and Autonomous-Drone (proposed design; empirical validation not yet performed)",
+            "Proposed Evaluation Protocol and Falsification Criteria: Proposed 4-part ablation design on retrieved domain evaluation settings: (i) standalone FM-Planner, (ii) standalone Autonomous-Drone, (iii) unregularized combination, and (iv) full proposed FM-Planner-Autonomous-Dro integration.",
+            "Target Outcomes to Test: Domain-Specific Task Performance, Computational Overhead, Generalization Stability, Ablation Sensitivity Across Hyperparameters, Multi-Seed Variance / Confidence Intervals",
+            "Methodological Scope Refinements: Addressed review feedback (Formulate a 4-part ablation protocol comparing standalone FM-Planner, standalone Autonomous-Drone, unregularized hybrid, and full FM-Planner-Autonomous-Dro.; Specify falsifiable evaluation criteria and multi-seed variance controls without claiming unperformed experiments as established fact.) by specifying a falsifiable 4-part ablation protocol, grounding baselines in the retrieved corpus, and explicitly labeling FM-Planner-Autonomous-Dro as an unverified research proposal."
+          ]
+        },
+        {
+          "subheading": "IV.C Proposed Research Direction (LLMs-Cross-modal-Vi): Integrating LLMs and Cross-modal-Visuomotor for Autonomous Drone Navigation",
+          "paragraphs": [
+            "Motivation and Gap: LLMs (2025) \u2194 Cross-modal-Visuomotor (2025) | Lineage Distance: 6 hops | Bridge Priority Score: 5.4800",
+            "Hypothesis Statement (LLMs-Cross-modal-Vi): [Proposed Hypothesis] Within the retrieved literature on Autonomous Drone Navigation, LLMs notes the challenge: \"Specifically, we incorporate weights for the goals of obstacle avoidance, weather adaptation, and mission completion.\", whereas Cross-modal-Visuomotor notes: \"Developing effective vision-based navigation algorithms adapting to various scenarios is a significant challenge for autonomous drone systems, with vast potential in diverse real-world applications.\". We hypothesize that combining the complementary mechanisms of LLMs and Cross-modal-Visuomotor represents a promising future research direction for Autonomous Drone Navigation.",
+            "Conceptual Formulation: Conceptual integration of LLMs and Cross-modal-Visuomotor (proposed design; empirical validation not yet performed)",
+            "Proposed Evaluation Protocol and Falsification Criteria: Proposed 4-part ablation design on retrieved domain evaluation settings: (i) standalone LLMs, (ii) standalone Cross-modal-Visuomotor, (iii) unregularized combination, and (iv) full proposed LLMs-Cross-modal-Vi integration.",
+            "Target Outcomes to Test: Domain-Specific Task Performance, Computational Overhead, Generalization Stability, Ablation Sensitivity Across Hyperparameters, Multi-Seed Variance / Confidence Intervals",
+            "Methodological Scope Refinements: Addressed review feedback (Formulate a 4-part ablation protocol comparing standalone LLMs, standalone Cross-modal-Visuomotor, unregularized hybrid, and full LLMs-Cross-modal-Vi.; Specify falsifiable evaluation criteria and multi-seed variance controls without claiming unperformed experiments as established fact.) by specifying a falsifiable 4-part ablation protocol, grounding baselines in the retrieved corpus, and explicitly labeling LLMs-Cross-modal-Vi as an unverified research proposal."
+          ]
+        }
+      ],
+      "citations_used": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "section_id": "conclusion",
+      "number_label": "V",
+      "heading": "Limitations, Open Challenges, and Conclusion",
+      "paragraphs": [
+        "This literature review synthesizes the findings of recent studies on autonomous drone navigation, highlighting key thematic paradigms, open challenges, and proposed future research directions. While the retrieved studies demonstrate significant advancements, honest scope limitations, such as abstract-level evidence analysis, must be acknowledged. The proposed future directions, including the integration of complementary mechanisms, offer promising avenues for enhancing autonomous drone navigation. Further research is necessary to address the remaining challenges and develop more efficient and effective navigation systems.",
+        "Methodological and Evidence Scope Limitations: In accordance with strict evidence grounding, all summaries of prior work in this manuscript are derived from retrieved abstracts and verified bibliographic records from ArXiv and Semantic Scholar. Comparative observations and knowledge-graph gap analyses represent cross-study synthesis, while the research directions in the preceding section are explicitly framed as falsifiable proposals for future empirical validation."
+      ],
+      "subsections": [],
+      "citations_used": []
+    }
+  ],
+  "comparative_table_rows": [
+    {
+      "ref": "[1]",
+      "study": "Xiao et al. (2025)",
+      "venue": "arXiv.org (2025)",
+      "method": "FM-Planner",
+      "baseline": "Conventional domain baselines",
+      "setting": "Reported in abstract (abstract-only analyzed)",
+      "findings": "Analysis Basis: Abstract-level metadata",
+      "limitation": "However, their practical applicability and effectiveness in global path planning remain relatively unexplored."
+    },
+    {
+      "ref": "[2]",
+      "study": "Khan et al. (2025)",
+      "venue": "AAAI Summer Symposia (2025)",
+      "method": "LLMs",
+      "baseline": "Conventional domain baselines",
+      "setting": "Reported in abstract (abstract-only analyzed)",
+      "findings": "Reported Figure (Abstract): 94%; Evaluated Dimensions: Success Rate",
+      "limitation": "Specifically, we incorporate weights for the goals of obstacle avoidance, weather adaptation, and mission completion."
+    },
+    {
+      "ref": "[3]",
+      "study": "Zhang et al. (2025)",
+      "venue": "IEEE Robotics and Automation Letters (2025)",
+      "method": "Cross-modal-Visuomotor",
+      "baseline": "Conventional domain baselines",
+      "setting": "Reported in abstract (abstract-only analyzed)",
+      "findings": "Analysis Basis: Abstract-level metadata",
+      "limitation": "Developing effective vision-based navigation algorithms adapting to various scenarios is a significant challenge for autonomous drone systems, with vast potential in diverse real-world applications."
+    },
+    {
+      "ref": "[4]",
+      "study": "Lam et al. (2025)",
+      "venue": "Proceedings of the ACM on Interactive Mobile Wearable and Ubiquitous Technologies (2025)",
+      "method": "MiNav",
+      "baseline": "Conventional domain baselines",
+      "setting": "Cluttered Indoor Environments",
+      "findings": "Reported Figure (Abstract): 20%; Evaluated Dimensions: Accuracy",
+      "limitation": "We present the design, implementation, and evaluation of MiNav, a system capable of accurate, efficient and fully autonomous drone navigation in challenging indoor environments, including those where vision-based systems fail."
+    },
+    {
+      "ref": "[5]",
+      "study": "Col et al. (2025)",
+      "venue": "The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences (2025)",
+      "method": "Autonomous-Drone",
+      "baseline": "Visual-Inertial Odometry (VIO)",
+      "setting": "Reported in abstract (abstract-only analyzed)",
+      "findings": "Evaluated Dimensions: Collision / Safety Rate",
+      "limitation": "Autonomous drone navigation in dense forests remains challenging due to unreliable GNSS signals, difficulty detecting thin branches, and cumulative drift in Visual-Inertial Odometry (VIO)."
+    },
+    {
+      "ref": "[6]",
+      "study": "Silva et al. (2025)",
+      "venue": "2025 Brazilian Conference on Robotics (CROS) (2025)",
+      "method": "Simulation-based-Autonomou",
+      "baseline": "Conventional domain baselines",
+      "setting": "Reported in abstract (abstract-only analyzed)",
+      "findings": "Analysis Basis: Abstract-level metadata",
+      "limitation": "Security and monitoring of large scale areas\u2014such as farms, critical infrastructure, or large urban zones\u2014face significant challenges due to high costs, lack of accessibility, and risks to human personnel."
+    },
+    {
+      "ref": "[7]",
+      "study": "Safie et al. (2025)",
+      "venue": "2025 IEEE International Conference on Automatic Control and Intelligent Systems (I2CACIS) (2025)",
+      "method": "Enabled-Autonomous",
+      "baseline": "Conventional domain baselines",
+      "setting": "Reported in abstract (abstract-only analyzed)",
+      "findings": "Analysis Basis: Abstract-level metadata",
+      "limitation": "Experimental results demonstrate that the model achieved perfect QR code detection (average precision 1.00) on static imagery and $88 \\%$ precision on more challenging dynamic footage, indicating robust recognition capability."
+    },
+    {
+      "ref": "[8]",
+      "study": "Shinde et al. (2025)",
+      "venue": "2025 Global Conference on Information Technology and Communication Networks (GITCON) (2025)",
+      "method": "Autonomous-Drone-Shinde",
+      "baseline": "Proximal Policy Optimization (PPO)",
+      "setting": "Cluttered Indoor Environments, PyBullet Simulation",
+      "findings": "Evaluated Dimensions: Success Rate, Collision / Safety Rate",
+      "limitation": "We detail the environment setup, observation space design incorporating ray casting for obstacle detection, and the action space for drone movement."
+    }
+  ],
+  "structural_hole_rows": [
+    {
+      "rank": "1",
+      "pair": "MiNav <-> Autonomous-Drone-Shinde",
+      "distance": "6 hops",
+      "score": "7.0638",
+      "shared_context": "Cluttered Indoor Environments"
+    },
+    {
+      "rank": "2",
+      "pair": "FM-Planner <-> Autonomous-Drone",
+      "distance": "6 hops",
+      "score": "5.8246",
+      "shared_context": "retrieved domain evaluation settings"
+    },
+    {
+      "rank": "3",
+      "pair": "LLMs <-> Cross-modal-Visuomotor",
+      "distance": "6 hops",
+      "score": "5.4800",
+      "shared_context": "retrieved domain evaluation settings"
+    }
+  ],
+  "proposed_directions": [
+    {
+      "hypothesis_id": "H-1",
+      "short_name": "MiNav-Autonomous-Dro",
+      "title": "Proposed Research Direction (MiNav-Autonomous-Dro): Integrating MiNav and Autonomous-Drone-Shinde for Autonomous Drone Navigation",
+      "structural_hole_bridged": "MiNav (2025) \u2194 Autonomous-Drone-Shinde (2025) | Lineage Distance: 6 hops | Bridge Priority Score: 7.0638",
+      "concept_a": "MiNav",
+      "concept_b": "Autonomous-Drone-Shinde",
+      "core_claim": "[Proposed Hypothesis] Within the retrieved literature on Autonomous Drone Navigation, MiNav notes the challenge: \"We present the design, implementation, and evaluation of MiNav, a system capable of accurate, efficient and fully autonomous drone navigation in challenging indoor environments, including those where vision-based systems fail.\", whereas Autonomous-Drone-Shinde notes: \"We detail the environment setup, observation space design incorporating ray casting for obstacle detection, and the action space for drone movement.\". We hypothesize that combining the complementary mechanisms of MiNav and Autonomous-Drone-Shinde represents a promising future research direction for Autonomous Drone Navigation.",
+      "mathematical_formulation": "Conceptual integration of MiNav and Autonomous-Drone-Shinde (proposed design; empirical validation not yet performed)",
+      "theoretical_guarantee": "Falsifiable Hypothesis Specification 1 (MiNav-Autonomous-Dro): Specifies concrete evaluation criteria for testing whether integrating MiNav and Autonomous-Drone-Shinde improves robustness and efficiency on Cluttered Indoor Environments. (Status: Proposed future direction; not claimed as an experimentally validated theorem).",
+      "algorithmic_mechanism": "Proposed architecture couples the core mechanism of MiNav with Autonomous-Drone-Shinde to investigate whether their joint formulation mitigates the limitations identified in the retrieved abstracts.",
+      "experimental_setup": "Proposed 4-part ablation design on Cluttered Indoor Environments: (i) standalone MiNav, (ii) standalone Autonomous-Drone-Shinde, (iii) unregularized combination, and (iv) full proposed MiNav-Autonomous-Dro integration.",
+      "datasets": [
+        "Cluttered Indoor Environments"
+      ],
+      "baselines": [
+        "MiNav",
+        "Autonomous-Drone-Shinde",
+        "Cross-modal-Visuomotor",
+        "Standalone-MiNav",
+        "Standalone-Autonomous-Drone-Shinde",
+        "Ablated-Hybrid-Variant"
+      ],
+      "evaluation_metrics": [
+        "Domain-Specific Task Performance",
+        "Computational Overhead",
+        "Generalization Stability",
+        "Ablation Sensitivity Across Hyperparameters",
+        "Multi-Seed Variance / Confidence Intervals"
+      ],
+      "complexity_and_feasibility": "Explicitly separates published evidence (MiNav (DOI:10.1145/3749464, 2025), Cross-modal-Visuomotor (DOI:10.1109/LRA.2025.3559824, 2025)) from proposed integration overhead on Cluttered Indoor Environments.",
+      "supporting_citations": [
+        "MiNav (DOI:10.1145/3749464, 2025)",
+        "Cross-modal-Visuomotor (DOI:10.1109/LRA.2025.3559824, 2025)",
+        "Autonomous-Drone-Shinde (DOI:10.1109/GITCON65266.2025.11378297, 2025)"
+      ],
+      "revision_notes": [
+        "Addressed review feedback (Formulate a 4-part ablation protocol comparing standalone MiNav, standalone Autonomous-Drone-Shinde, unregularized hybrid, and full MiNav-Autonomous-Dro.; Specify falsifiable evaluation criteria and multi-seed variance controls without claiming unperformed experiments as established fact.) by specifying a falsifiable 4-part ablation protocol, grounding baselines in the retrieved corpus, and explicitly labeling MiNav-Autonomous-Dro as an unverified research proposal."
+      ],
+      "claim_status": "proposed",
+      "iteration": 2
+    },
+    {
+      "hypothesis_id": "H-2",
+      "short_name": "FM-Planner-Autonomous-Dro",
+      "title": "Proposed Research Direction (FM-Planner-Autonomous-Dro): Integrating FM-Planner and Autonomous-Drone for Autonomous Drone Navigation",
+      "structural_hole_bridged": "FM-Planner (2025) \u2194 Autonomous-Drone (2025) | Lineage Distance: 6 hops | Bridge Priority Score: 5.8246",
+      "concept_a": "FM-Planner",
+      "concept_b": "Autonomous-Drone",
+      "core_claim": "[Proposed Hypothesis] Within the retrieved literature on Autonomous Drone Navigation, FM-Planner notes the challenge: \"However, their practical applicability and effectiveness in global path planning remain relatively unexplored.\", whereas Autonomous-Drone notes: \"Autonomous drone navigation in dense forests remains challenging due to unreliable GNSS signals, difficulty detecting thin branches, and cumulative drift in Visual-Inertial Odometry (VIO).\". We hypothesize that combining the complementary mechanisms of FM-Planner and Autonomous-Drone represents a promising future research direction for Autonomous Drone Navigation.",
+      "mathematical_formulation": "Conceptual integration of FM-Planner and Autonomous-Drone (proposed design; empirical validation not yet performed)",
+      "theoretical_guarantee": "Falsifiable Hypothesis Specification 2 (FM-Planner-Autonomous-Dro): Specifies concrete evaluation criteria for testing whether integrating FM-Planner and Autonomous-Drone improves robustness and efficiency on retrieved domain evaluation settings. (Status: Proposed future direction; not claimed as an experimentally validated theorem).",
+      "algorithmic_mechanism": "Proposed architecture couples the core mechanism of FM-Planner with Autonomous-Drone to investigate whether their joint formulation mitigates the limitations identified in the retrieved abstracts.",
+      "experimental_setup": "Proposed 4-part ablation design on retrieved domain evaluation settings: (i) standalone FM-Planner, (ii) standalone Autonomous-Drone, (iii) unregularized combination, and (iv) full proposed FM-Planner-Autonomous-Dro integration.",
+      "datasets": [
+        "retrieved domain evaluation settings"
+      ],
+      "baselines": [
+        "FM-Planner",
+        "Autonomous-Drone",
+        "MiNav",
+        "Cross-modal-Visuomotor",
+        "Standalone-FM-Planner",
+        "Standalone-Autonomous-Drone",
+        "Ablated-Hybrid-Variant"
+      ],
+      "evaluation_metrics": [
+        "Domain-Specific Task Performance",
+        "Computational Overhead",
+        "Generalization Stability",
+        "Ablation Sensitivity Across Hyperparameters",
+        "Multi-Seed Variance / Confidence Intervals"
+      ],
+      "complexity_and_feasibility": "Explicitly separates published evidence (MiNav (DOI:10.1145/3749464, 2025), Cross-modal-Visuomotor (DOI:10.1109/LRA.2025.3559824, 2025)) from proposed integration overhead on retrieved domain evaluation settings.",
+      "supporting_citations": [
+        "MiNav (DOI:10.1145/3749464, 2025)",
+        "Cross-modal-Visuomotor (DOI:10.1109/LRA.2025.3559824, 2025)",
+        "Autonomous-Drone-Shinde (DOI:10.1109/GITCON65266.2025.11378297, 2025)"
+      ],
+      "revision_notes": [
+        "Addressed review feedback (Formulate a 4-part ablation protocol comparing standalone FM-Planner, standalone Autonomous-Drone, unregularized hybrid, and full FM-Planner-Autonomous-Dro.; Specify falsifiable evaluation criteria and multi-seed variance controls without claiming unperformed experiments as established fact.) by specifying a falsifiable 4-part ablation protocol, grounding baselines in the retrieved corpus, and explicitly labeling FM-Planner-Autonomous-Dro as an unverified research proposal."
+      ],
+      "claim_status": "proposed",
+      "iteration": 2
+    },
+    {
+      "hypothesis_id": "H-3",
+      "short_name": "LLMs-Cross-modal-Vi",
+      "title": "Proposed Research Direction (LLMs-Cross-modal-Vi): Integrating LLMs and Cross-modal-Visuomotor for Autonomous Drone Navigation",
+      "structural_hole_bridged": "LLMs (2025) \u2194 Cross-modal-Visuomotor (2025) | Lineage Distance: 6 hops | Bridge Priority Score: 5.4800",
+      "concept_a": "LLMs",
+      "concept_b": "Cross-modal-Visuomotor",
+      "core_claim": "[Proposed Hypothesis] Within the retrieved literature on Autonomous Drone Navigation, LLMs notes the challenge: \"Specifically, we incorporate weights for the goals of obstacle avoidance, weather adaptation, and mission completion.\", whereas Cross-modal-Visuomotor notes: \"Developing effective vision-based navigation algorithms adapting to various scenarios is a significant challenge for autonomous drone systems, with vast potential in diverse real-world applications.\". We hypothesize that combining the complementary mechanisms of LLMs and Cross-modal-Visuomotor represents a promising future research direction for Autonomous Drone Navigation.",
+      "mathematical_formulation": "Conceptual integration of LLMs and Cross-modal-Visuomotor (proposed design; empirical validation not yet performed)",
+      "theoretical_guarantee": "Falsifiable Hypothesis Specification 3 (LLMs-Cross-modal-Vi): Specifies concrete evaluation criteria for testing whether integrating LLMs and Cross-modal-Visuomotor improves robustness and efficiency on retrieved domain evaluation settings. (Status: Proposed future direction; not claimed as an experimentally validated theorem).",
+      "algorithmic_mechanism": "Proposed architecture couples the core mechanism of LLMs with Cross-modal-Visuomotor to investigate whether their joint formulation mitigates the limitations identified in the retrieved abstracts.",
+      "experimental_setup": "Proposed 4-part ablation design on retrieved domain evaluation settings: (i) standalone LLMs, (ii) standalone Cross-modal-Visuomotor, (iii) unregularized combination, and (iv) full proposed LLMs-Cross-modal-Vi integration.",
+      "datasets": [
+        "retrieved domain evaluation settings"
+      ],
+      "baselines": [
+        "LLMs",
+        "Cross-modal-Visuomotor",
+        "MiNav",
+        "Standalone-LLMs",
+        "Standalone-Cross-modal-Visuomotor",
+        "Ablated-Hybrid-Variant"
+      ],
+      "evaluation_metrics": [
+        "Domain-Specific Task Performance",
+        "Computational Overhead",
+        "Generalization Stability",
+        "Ablation Sensitivity Across Hyperparameters",
+        "Multi-Seed Variance / Confidence Intervals"
+      ],
+      "complexity_and_feasibility": "Explicitly separates published evidence (Cross-modal-Visuomotor (DOI:10.1109/LRA.2025.3559824, 2025), MiNav (DOI:10.1145/3749464, 2025)) from proposed integration overhead on retrieved domain evaluation settings.",
+      "supporting_citations": [
+        "Cross-modal-Visuomotor (DOI:10.1109/LRA.2025.3559824, 2025)",
+        "MiNav (DOI:10.1145/3749464, 2025)",
+        "Autonomous-Drone-Shinde (DOI:10.1109/GITCON65266.2025.11378297, 2025)",
+        "Autonomous-Drone (DOI:10.5194/isprs-archives-xlviii-2-w11-2025-87-2025, 2025)"
+      ],
+      "revision_notes": [
+        "Addressed review feedback (Formulate a 4-part ablation protocol comparing standalone LLMs, standalone Cross-modal-Visuomotor, unregularized hybrid, and full LLMs-Cross-modal-Vi.; Specify falsifiable evaluation criteria and multi-seed variance controls without claiming unperformed experiments as established fact.) by specifying a falsifiable 4-part ablation protocol, grounding baselines in the retrieved corpus, and explicitly labeling LLMs-Cross-modal-Vi as an unverified research proposal."
+      ],
+      "claim_status": "proposed",
+      "iteration": 2
+    }
+  ],
+  "bibliography": [
+    {
+      "index": 1,
+      "paper_id": "arXiv:2505.20783",
+      "title": "FM-Planner: Foundation Model Guided Path Planning for Autonomous Drone Navigation",
+      "authors": [
+        "Jia-Ping Xiao",
+        "Cheng-Wen Tsao",
+        "Yu-Hang Zhang",
+        "Mir Feroskhan"
+      ],
+      "year": 2025,
+      "venue": "arXiv.org",
+      "url": "https://www.semanticscholar.org/paper/70762c699b32ad15212c9607f72dc049e050003c",
+      "source": "semantic_scholar",
+      "analysis_scope": "abstract_only"
+    },
+    {
+      "index": 2,
+      "paper_id": "DOI:10.1609/aaaiss.v6i1.36039",
+      "title": "Context-Aware Autonomous Drone Navigation Using Large Language Models (LLMs)",
+      "authors": [
+        "Abdul Manan Khan",
+        "Ikram Ur Rehman",
+        "Nagham Saeed",
+        "Drishty Sobnath",
+        "Fatima Khan",
+        "Muazzam Ali Khan Khattak"
+      ],
+      "year": 2025,
+      "venue": "AAAI Summer Symposia",
+      "url": "https://www.semanticscholar.org/paper/09718b55d6b2ce0adf277e82ba471248b58ca39a",
+      "source": "semantic_scholar",
+      "analysis_scope": "abstract_only"
+    },
+    {
+      "index": 3,
+      "paper_id": "DOI:10.1109/LRA.2025.3559824",
+      "title": "Learning Cross-Modal Visuomotor Policies for Autonomous Drone Navigation",
+      "authors": [
+        "Yu-Hang Zhang",
+        "Jia-Ping Xiao",
+        "Mir Feroskhan"
+      ],
+      "year": 2025,
+      "venue": "IEEE Robotics and Automation Letters",
+      "url": "https://www.semanticscholar.org/paper/cbdce8da0475c72fbfc9c019578ab6dccc61c9e6",
+      "source": "semantic_scholar",
+      "analysis_scope": "abstract_only"
+    },
+    {
+      "index": 4,
+      "paper_id": "DOI:10.1145/3749464",
+      "title": "MiNav: Autonomous Drone Navigation Indoors Using Millimeter-Waves",
+      "authors": [
+        "Maisy Lam",
+        "Joshua Herrera",
+        "Sayed Saad Afzal",
+        "Kai-Chen Zhou",
+        "Fadel M. Adib"
+      ],
+      "year": 2025,
+      "venue": "Proceedings of the ACM on Interactive Mobile Wearable and Ubiquitous Technologies",
+      "url": "https://www.semanticscholar.org/paper/416c56be127ee236c019418fd704a3ec8c6c3307",
+      "source": "semantic_scholar",
+      "analysis_scope": "abstract_only"
+    },
+    {
+      "index": 5,
+      "paper_id": "DOI:10.5194/isprs-archives-xlviii-2-w11-2025-87-2025",
+      "title": "Autonomous Drone Navigation in Forest Environments Using Deep Learning",
+      "authors": [
+        "Guglielmo Del Col",
+        "V. Karjalainen",
+        "T. Hakala",
+        "E. Honkavaara"
+      ],
+      "year": 2025,
+      "venue": "The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences",
+      "url": "https://www.semanticscholar.org/paper/3336b5e4758deaf5b4e15386768100e3cad8c95f",
+      "source": "semantic_scholar",
+      "analysis_scope": "abstract_only"
+    },
+    {
+      "index": 6,
+      "paper_id": "DOI:10.1109/CROS66186.2025.11066101",
+      "title": "Simulation-Based Autonomous Drone Navigation for Security and Monitoring Using Deep Reinforcement Learning",
+      "authors": [
+        "Th\u00e1ssio Gomes Silva",
+        "Kau\u00ea F. Bonf\u00e1",
+        "Gabriela M. Goulart",
+        "Mikael F. Do Nascimento",
+        "Leonardo M. Brisolla",
+        "Angela Mahlke R",
+        "Evandro Luz Dorneles",
+        "Solon Bevilacqua",
+        "Luana Machado dos Santos",
+        "Anselmo Rafael Cukla",
+        "Felipe Gomes de Oliveira",
+        "Maria Rita Piekas"
+      ],
+      "year": 2025,
+      "venue": "2025 Brazilian Conference on Robotics (CROS)",
+      "url": "https://www.semanticscholar.org/paper/8333843dac4f5b3ad1c89c482fed940ec1a1f780",
+      "source": "semantic_scholar",
+      "analysis_scope": "abstract_only"
+    },
+    {
+      "index": 7,
+      "paper_id": "DOI:10.1109/I2CACIS65476.2025.11100664",
+      "title": "Deep Learning Enabled Autonomous Drone Navigation for Safety Inspections in Chemical Plants",
+      "authors": [
+        "S. Safie",
+        "Raudhah Mohd Khairil Azhar",
+        "Mohamad Hanafi Ali"
+      ],
+      "year": 2025,
+      "venue": "2025 IEEE International Conference on Automatic Control and Intelligent Systems (I2CACIS)",
+      "url": "https://www.semanticscholar.org/paper/291d690d71dc813b77a3f550e906d070c6ca44c7",
+      "source": "semantic_scholar",
+      "analysis_scope": "abstract_only"
+    },
+    {
+      "index": 8,
+      "paper_id": "DOI:10.1109/GITCON65266.2025.11378297",
+      "title": "Autonomous Drone Navigation Using Reinforcement Learning",
+      "authors": [
+        "Sandeep Shinde",
+        "Soham Kanhe",
+        "Shravan Katore",
+        "Sujal Kandgave",
+        "Adwait Jahagirdar"
+      ],
+      "year": 2025,
+      "venue": "2025 Global Conference on Information Technology and Communication Networks (GITCON)",
+      "url": "https://www.semanticscholar.org/paper/d0dadda134e7dc7d6c3df9fb8b093e96be2e2b15",
+      "source": "semantic_scholar",
+      "analysis_scope": "abstract_only"
+    }
+  ],
+  "quality_review": {
+    "approved": true,
+    "iteration": 1,
+    "topic_relevance_passed": true,
+    "citation_verification_passed": true,
+    "factual_grounding_passed": true,
+    "issues": [],
+    "corrected_sections": [],
+    "summary_notes": [
+      "Audited 5 sections against 8 verified sources for topic 'Autonomous Drone Navigation'."
+    ]
+  },
+  "knowledge_graph_image_path": "/Users/saumyya/Developer/Scientist/output/knowledge_graph.jpg",
+  "limitations_and_scope_notice": "",
+  "kg_summary": {},
+  "llm_diagnostics": [
+    {
+      "stage": "manuscript_synthesis",
+      "model": "meta-llama/llama-3.3-70b-instruct",
+      "latency_ms": 45143.1,
+      "status": "success",
+      "error_category": "none",
+      "status_code": 200,
+      "attempt": 1
+    }
+  ]
+}
